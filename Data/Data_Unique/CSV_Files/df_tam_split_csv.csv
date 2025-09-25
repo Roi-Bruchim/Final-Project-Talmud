@@ -1,0 +1,879 @@
+text,url,lexicon_0,lexicon_1,lexicon_2,lexicon_3,lexicon_4,split_word_0,split_word_1,split_word_2,split_word_3,meaning_0,meaning_1,meaning_2,meaning_3,text_transformed,Lema,merged_lexicon,merged_meanings
+)hrN,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 0",No data,,,,,,,,,,,,,אהרן,None,No data,
+kl,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 1",noun sg. abs. or construct,,,,,"kl, kl?",,,,"all, every",,,,כל,kl,noun sg. abs. or construct,"all, every"
+xd,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 2",n01,,,,,?d,,,,one,,,,חד,xd,numeral singular absolute or construct,one
+wxd,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 3",c,n01,,,,w_,?d,,,"and, also",one,,,וחד,xd,conjunction | numeral singular absolute or construct,"and, also | one"
+lxwdyh;,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 4",p02,,,,,"l?wd, lhwd",,,,only; alone,,,,לחודיה;,lxwd_,preposition with pronominal suffix,only; alone
+rb,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 5",No data,,,,,,,,,,,,,רב,None,No data,
+)$y,"Masekhet: 71036, Page: 026, Side: 1, Line: 30, Word: 6",No data,,,,,,,,,,,,,אשי,None,No data,
+)';,"Masekhet: 71036, Page: 026, Side: 1, Line: 31, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א';,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+msypyh,"Masekhet: 71036, Page: 026, Side: 1, Line: 31, Word: 1",p,noun sg. emphatic,,,,mn,"syp, syp?",,,from,end,,,מסיפיה,syp),preposition | noun sg. emphatic,from | end
+dqr);,"Masekhet: 71036, Page: 026, Side: 1, Line: 31, Word: 2",p,noun sg. emphatic,,,,dy,"qry, qry?",,,"of, genitive particle",crying; reading,,,דקרא;,qr),preposition | noun sg. emphatic,"of, genitive particle | crying; reading"
+)w,"Masekhet: 71036, Page: 026, Side: 2, Line: 02, Word: 0",c,,,,,?w,,,,or,,,,או,)w,conjunction,or
+dyl',"Masekhet: 71036, Page: 026, Side: 2, Line: 02, Word: 1",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+dgbyhy,"Masekhet: 71036, Page: 026, Side: 2, Line: 02, Word: 2",c,verb G,,,,dy,gbh,,,"to be high, raised up",p.p. :,,,דגביהי,gbh,conjunction | verb peal,"to be high, raised up | p.p. :"
+mgbh,"Masekhet: 71036, Page: 026, Side: 2, Line: 02, Word: 3",verb G,,,,,gbh,,,,"to be high, raised up",p.p. :,,,מגבה,gbh,verb peal,"to be high, raised up | p.p. :"
+"""k(lywt"";","Masekhet: 71036, Page: 026, Side: 2, Line: 02, Word: 4",No data,,,,,,,,,,,,,כעליות;,None,No data,
+wxd,"Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 0",c,n01,,,,w_,?d,,,"and, also",one,,,וחד,xd,conjunction | numeral singular absolute or construct,"and, also | one"
+"""$ymwr""","Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 1",No data,,,,,,,,,,,,,שימור,None,No data,
+hw),"Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 2",P01,,,,,hw?,,,,he,,,,הוא,hw),preposition independent,he
+dhwh,"Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 3",c,verb G,,,,dy,hwy,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,דהוה,hwy,conjunction | verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+lyh,"Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 4",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+"""lbyt","Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 5",No data,,,,,,,,,,,,,לבית,None,No data,
+hmwqd";,"Masekhet: 71036, Page: 026, Side: 2, Line: 14, Word: 6",No data,,,,,,,,,,,,,המוקד;,None,No data,
+kywN,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 0",c,,,,,kywn,,,,"when, since",,,,כיון,kywn,conjunction,"when, since"
+dgby,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 1",c,p,,,,dy,"gb, gby",,,"who,which (relative)","at the side of, together with",,,דגבי,gby,conjunction | preposition,"who,which (relative) | at the side of, together with"
+hddy,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 2",P01,,,,,"?dd?, hddy",,,,one another; each other,,,,הדדי,hddy,preposition independent,one another; each other
+hww,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 3",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+qyymy;,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 4",verb G,,,,,qwm,,,,to rise,"to stand, to be raised up","to stand still, to stop",with various prepositions,קיימי;,qwm,verb peal,"to rise | to stand, to be raised up | to stand still, to stop | with various prepositions"
+sgy,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 5",A01,,,,,"sgy, ?gy?",,,,"many, much",,,,סגי,sgy,adjective singular absolute or construct,"many, much"
+lhw,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 6",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+bxd,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 7",p02,n01,,,,b_,?d,,,"in, with",one,,,בחד,xd,preposition with pronominal suffix | numeral singular absolute or construct,"in, with | one"
+"""$wmr"";","Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 8",No data,,,,,,,,,,,,,שומר;,None,No data,
+dwy,"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 9",verb G,,,,,dwy,,,,to look out,,,,דוי,dwy#2,verb peal,to look out
+lhk),"Masekhet: 71036, Page: 026, Side: 2, Line: 19, Word: 10",p03,a,,,,l_,hkh,,,"to, for",here,,,להכא,hk),preposition proclitic | adverb,"to, for | here"
+dwy,"Masekhet: 71036, Page: 026, Side: 2, Line: 20, Word: 0",verb G,,,,,dwy,,,,to look out,,,,דוי,dwy#2,verb peal,to look out
+lhk);,"Masekhet: 71036, Page: 026, Side: 2, Line: 20, Word: 1",p03,a,,,,l_,hkh,,,"to, for",here,,,להכא;,hk),preposition proclitic | adverb,"to, for | here"
+"""rwbdyN""","Masekhet: 71036, Page: 026, Side: 2, Line: 20, Word: 2",No data,,,,,,,,,,,,,רובדין,None,No data,
+m)y,"Masekhet: 71036, Page: 026, Side: 2, Line: 20, Word: 3",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+nyhw;,"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 0",P01,,,,,nyhw,,,,he,,,,ניהו;,nyhw,preposition independent,he
+gzrt),"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 1",noun pl. emphatic,,,,,"gzyrh, gzyrt?",,,,"something cut off: decree, island, circumcision",,,,גזרתא,gzyrt),noun pl. emphatic,"something cut off: decree, island, circumcision"
+dmcTwwt),"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 2",c,noun sg. emphatic,,,,dy,"m??bh, m??bt?",,,"who,which (relative)","table, bench",,,דמצטוותא,mcTwwt),conjunction | noun sg. emphatic,"who,which (relative) | table, bench"
+dslqy,"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 3",c,verb G,,,,dy,slq,,,to go up,to result,to travel,idioms:,דסלקי,slq,conjunction | verb peal,to go up | to result | to travel | idioms:
+bhw,"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 4",p02,,,,,b_,,,,"in, with",,,,בהו,b_,preposition with pronominal suffix,"in, with"
+lmcTwwt);,"Masekhet: 71036, Page: 026, Side: 2, Line: 21, Word: 5",p02,noun sg. emphatic,,,,l_,"m??bh, m??bt?",,,"to, for","table, bench",,,למצטוותא;,mcTwwt),preposition with pronominal suffix | noun sg. emphatic,"to, for | table, bench"
+wmy,"Masekhet: 71036, Page: 026, Side: 2, Line: 22, Word: 0",c,c,,,,w_,my,,,"and, also",interrogative particle,,,ומי,my,conjunction | conjunction,"and, also | interrogative particle"
+hw?w?,"Masekhet: 71036, Page: 026, Side: 2, Line: 22, Word: 1",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+myplgy,"Masekhet: 71036, Page: 026, Side: 2, Line: 22, Word: 2",verb Gt,,,,,plg,,,,"to be divided, split",to be allotted,to be in doubt,,מיפלגי,plg,verb ethpeel,"to be divided, split | to be allotted | to be in doubt"
+""")bnyM"";","Masekhet: 71036, Page: 026, Side: 2, Line: 22, Word: 3",No data,,,,,,,,,,,,,אבנים;,None,No data,
+dmtqny,"Masekhet: 71036, Page: 026, Side: 2, Line: 23, Word: 0",verb C,,,,,tqn,,,,"to establish, to fix, ordain",to prepare,to act properly,to agree to conditions,דמתקני,tqn,verb (h)aphel,"to establish, to fix, ordain | to prepare | to act properly | to agree to conditions"
+wmyytw,"Masekhet: 71036, Page: 026, Side: 2, Line: 23, Word: 1",c,verb C,,,,w_,?ty,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,ומייתו,)ty,conjunction | verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+m(yqr),"Masekhet: 71036, Page: 026, Side: 2, Line: 24, Word: 0",a,,,,,m?yqr?,,,,"originally, at first",,,,מעיקרא,m(yqr),adverb,"originally, at first"
+)bny,"Masekhet: 71036, Page: 026, Side: 2, Line: 24, Word: 1",noun pl. construct,,,,,"br, br?",,,,son,,,,אבני,br),noun pl. construct,son
+zwTrt),"Masekhet: 71036, Page: 026, Side: 2, Line: 24, Word: 2",A05,,,,,zw?r,,,,"small, young",,,,זוטרתא,zwTr,adjective plural determined,"small, young"
+w)bny,"Masekhet: 71036, Page: 026, Side: 2, Line: 24, Word: 3",c,noun pl. emphatic,,,,w_,"?bn, ?bn?",,,"and, also",stone,,,ואבני,)bn),conjunction | noun pl. emphatic,"and, also | stone"
+?r?brbt);,"Masekhet: 71036, Page: 026, Side: 2, Line: 24, Word: 4",A05,,,,,rb,,,,"great, big",,,,רברבתא;,rb,adjective plural determined,"great, big"
+w)m)y;,"Masekhet: 71036, Page: 026, Side: 2, Line: 26, Word: 0",c,c,,,,w_,"?l m?, ?l mn?, ?m?y",,,"and, also",why?,,,ואמאי;,)m)y,conjunction | conjunction,"and, also | why?"
+ny(yylw,"Masekhet: 71036, Page: 026, Side: 2, Line: 26, Word: 1",verb D,,,,,?ll,,,,to bring in,to pretend,to ripen,to marry off (woman),ניעיילו,(ll,verb pael,to bring in | to pretend | to ripen | to marry off (woman)
+"""myTwt"";","Masekhet: 71036, Page: 026, Side: 2, Line: 26, Word: 2",No data,,,,,,,,,,,,,מיטות;,None,No data,
+)',"Masekhet: 71036, Page: 026, Side: 2, Line: 26, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+)byy;,"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 0",No data,,,,,,,,,,,,,אביי;,None,No data,
+l)w,"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 1",a,,,,,"l?w, lw",,,,"not, it is not",,,,לאו,l)w,adverb,"not, it is not"
+)wrx )r(),"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 2",noun sg. emphatic,,,,,?wr? ?r??,,,,"normal behaviour, proper behaviour",,,,אורח ארעא,)wrx@)r(),noun sg. emphatic,"normal behaviour, proper behaviour"
+l(ywly,"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 3",p02,verb D,,,,l_,?ll,,,to bring in,to pretend,to ripen,to marry off (woman),לעיולי,(ll,preposition with pronominal suffix | verb pael,to bring in | to pretend | to ripen | to marry off (woman)
+"""myTwt","Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 4",No data,,,,,,,,,,,,,מיטות,None,No data,
+lbyt,"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 5",No data,,,,,,,,,,,,,לבית,None,No data,
+hmqd$";,"Masekhet: 71036, Page: 026, Side: 2, Line: 27, Word: 6",No data,,,,,,,,,,,,,המקדש;,None,No data,
+)mry;,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+htM,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 1",a,,,,,htm,,,,there,,,,התם,htm,adverb,there
+qry,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 2",verb G,,,,,qry,,,,to call,to read,to cry out,"to proclaim, to declare",קרי,qry,verb peal,"to call | to read | to cry out | to proclaim, to declare"
+lhw,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 3",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+"""rwbyM"";","Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 4",No data,,,,,,,,,,,,,רובים;,None,No data,
+hk),"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 5",a,,,,,hkh,,,,here,,,,הכא,hk),adverb,here
+qry,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 6",verb G,,,,,qry,,,,to call,to read,to cry out,"to proclaim, to declare",קרי,qry,verb peal,"to call | to read | to cry out | to proclaim, to declare"
+lhw,"Masekhet: 71036, Page: 026, Side: 2, Line: 29, Word: 7",p03,,,,,l_,,,,"to, for",,,,להו,l_,preposition proclitic,"to, for"
+"""prx'"";","Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 0",No data,,,,,,,,,,,,,פרח';,None,No data,
+)mry;,"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 1",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+)yN;,"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 2",I,,,,,?yn,,,,yes,,,,אין;,)yn,interjection,yes
+htM,"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 3",a,,,,,htm,,,,there,,,,התם,htm,adverb,there
+dl),"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 4",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+mTw,"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 5",verb G,,,,,m?y,,,,"to come, to reach","to happen, occur","to be able, achieve",,מטו,mTy,verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+lm(bd,"Masekhet: 71036, Page: 027, Side: 1, Line: 01, Word: 6",p02,verb G,,,,l_,?bd,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,למעבד,(bd,preposition with pronominal suffix | verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+"""(bwd'"";","Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 0",No data,,,,,,,,,,,,,עבוד';,None,No data,
+qry,"Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 1",verb G,,,,,qry,,,,to call,to read,to cry out,"to proclaim, to declare",קרי,qry,verb peal,"to call | to read | to cry out | to proclaim, to declare"
+lhw,"Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 2",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+"""rwbyM"";","Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 3",No data,,,,,,,,,,,,,רובים;,None,No data,
+hk),"Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 4",a,,,,,hkh,,,,here,,,,הכא,hk),adverb,here
+dmTw,"Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 5",c,verb G,,,,dy,m?y,,,"to come, to reach","to happen, occur","to be able, achieve",,דמטו,mTy,conjunction | verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+lm(bd,"Masekhet: 71036, Page: 027, Side: 1, Line: 02, Word: 6",p02,verb G,,,,l_,?bd,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,למעבד,(bd,preposition with pronominal suffix | verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+"""(bwd'"";","Masekhet: 71036, Page: 027, Side: 1, Line: 03, Word: 0",No data,,,,,,,,,,,,,עבוד';,None,No data,
+qry,"Masekhet: 71036, Page: 027, Side: 1, Line: 03, Word: 1",verb G,,,,,qry,,,,to call,to read,to cry out,"to proclaim, to declare",קרי,qry,verb peal,"to call | to read | to cry out | to proclaim, to declare"
+lhw,"Masekhet: 71036, Page: 027, Side: 1, Line: 03, Word: 2",p02,,,,,l_,,,,"to, for",,,,להו,l_,preposition with pronominal suffix,"to, for"
+"""pyrxy"";","Masekhet: 71036, Page: 027, Side: 1, Line: 03, Word: 3",No data,,,,,,,,,,,,,פירחי;,None,No data,
+mnhny,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 0",a,P,,,,mn?,hny,,,whence,"these, those",,,מנהני,hny,adverb | P,"whence | these, those"
+myly;,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 1",noun pl. emphatic,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילי;,mylt),noun pl. emphatic,"word, speech; thing"
+)',"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+rb,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 3",No data,,,,,,,,,,,,,רב,None,No data,
+yhwd',"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 4",No data,,,,,,,,,,,,,יהוד',None,No data,
+mswr);,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 5",p,,,,,mn,,,,from,,,,מסורא;,m_,preposition,from
+w)mry,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 6",c,verb G,,,,w_,?mr,,,to say,to command,to think,idiomatic and special usages:,ואמרי,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+lh,"Masekhet: 71036, Page: 027, Side: 1, Line: 10, Word: 7",p02,,,,,l_,,,,"to, for",,,,לה,l_,preposition with pronominal suffix,"to, for"
+bmtnyt';,"Masekhet: 71036, Page: 027, Side: 1, Line: 11, Word: 0",p02,noun sg. emphatic,,,,b_,"mtny, mtnyt?",,,"in, with",tannaitic tradition,,,במתנית';,mtnyt),preposition with pronominal suffix | noun sg. emphatic,"in, with | tannaitic tradition"
+)mry;,"Masekhet: 71036, Page: 027, Side: 1, Line: 14, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+($ryN,"Masekhet: 71036, Page: 027, Side: 1, Line: 14, Word: 1",n03,,,,,?sryn,,,,twenty,,,,עשרין,(sryn,numeral plural absolute,twenty
+w)rb({yN},"Masekhet: 71036, Page: 027, Side: 1, Line: 14, Word: 2",c,n01,,,,w_,?rb?,,,"and, also",four,,,וארבע,)rb(),conjunction | numeral singular absolute or construct,"and, also | four"
+hww;,"Masekhet: 71036, Page: 027, Side: 1, Line: 14, Word: 3",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו;,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+)',"Masekhet: 71036, Page: 027, Side: 1, Line: 14, Word: 4",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+)byy;,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 0",No data,,,,,,,,,,,,,אביי;,None,No data,
+hky,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 1",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+q)',"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,קא',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+"""wl)swp'","Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 3",No data,,,,,,,,,,,,,ולאסופ',None,No data,
+$nyM,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 4",No data,,,,,,,,,,,,,שנים,None,No data,
+$nyM";,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 5",No data,,,,,,,,,,,,,שנים;,None,No data,
+)kty,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 6",a,,,,,?kty,,,,still,,,,אכתי,)kty,adverb,still
+($ryN,"Masekhet: 71036, Page: 027, Side: 1, Line: 15, Word: 7",n03,,,,,?sryn,,,,twenty,,,,עשרין,(sryn,numeral plural absolute,twenty
+wtrty,"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 0",c,n02,,,,w_,tryn,,,"and, also",two,,,ותרתי,try,conjunction | numeral singular determined,"and, also | two"
+hww;,"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 1",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו;,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+h)yK,"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 2",P01,,,,,h?yk,,,,that (m.),,,,האיך,h)yk,preposition independent,that (m.)
+d)prbr,"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 3",c,,,,,dy,,,,"who,which (relative)",,,,דאפרבר,d_,conjunction,"who,which (relative)"
+xd,"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 4",n01,,,,,?d,,,,one,,,,חד,xd,numeral singular absolute or construct,one
+hw),"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 5",P01,,,,,hw?,,,,he,,,,הוא,hw),preposition independent,he
+)xryn),"Masekhet: 71036, Page: 027, Side: 1, Line: 16, Word: 6",R,,,,,?w?rn,,,,other,,,,אחרינא,)xryn),R,other
+bcwwt),"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 0",p02,noun sg. emphatic,,,,b_,"?wt, ?wt?",,,"in, with",company,,,בצוותא,cwwt),preposition with pronominal suffix | noun sg. emphatic,"in, with | company"
+hw);,"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 1",P01,,,,,hw?,,,,he,,,,הוא;,hw),preposition independent,he
+ytyb,"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 3",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,יתיב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+gbyh,"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 4",p,,,,,"gb, gby",,,,"at the side of, together with",,,,גביה,gby,preposition,"at the side of, together with"
+m$wM,"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 5",c,,,,,m?wm,,,,"because, since",,,,משום,m$wm,conjunction,"because, since"
+dq)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 17, Word: 6",c,verb G,,,,dy,qwm,,,to rise,"to stand, to be raised up","to stand still, to stop",with various prepositions,דקאי,qwm,conjunction | verb peal,"to rise | to stand, to be raised up | to stand still, to stop | with various prepositions"
+)br)y;,"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 0",a,,,,,?br?y,,,,outside,,,,אבראי;,)br)y,adverb,outside
+m)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 1",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+"""lprbr"";","Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 2",No data,,,,,,,,,,,,,לפרבר;,None,No data,
+)',"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+rbh,"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 4",No data,,,,,,,,,,,,,רבה,None,No data,
+br,"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 5",No data,,,,,,,,,,,,,בר,None,No data,
+$yl);,"Masekhet: 71036, Page: 027, Side: 1, Line: 18, Word: 6",No data,,,,,,,,,,,,,שילא;,None,No data,
+km)N,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 0",P,,,,,mn,,,,who?,,,,כמאן,m)n,P,who?
+d)';,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 1",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא';,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+klpy,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 2",p01,,,,,klpy,,,,towards,,,,כלפי,klpy,preposition independent,towards
+br,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 3",noun sg. abs. or construct,,,,,"br, br?",,,,son,,,,בר,br),noun sg. abs. or construct,son
+..;,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 4",No data,,,,,,,,,,,,,;,None,No data,
+"""l(wlM""","Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 5",No data,,,,,,,,,,,,,לעולם,None,No data,
+($ry',"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 6",n03,,,,,?sryn,,,,twenty,,,,עשרי',(sryn,numeral plural absolute,twenty
+w)rb(h,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 7",c,n01,,,,w_,?rb?,,,"and, also",four,,,וארבעה,)rb(),conjunction | numeral singular absolute or construct,"and, also | four"
+kdkt';,"Masekhet: 71036, Page: 027, Side: 1, Line: 19, Word: 8",verb G,,,,,ktb,,,,to write,to draw,,,כדכת';,ktb,verb peal,to write | to draw
+tlt),"Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 0",n02,,,,,tlt,,,,three,,,,תלתא,tlt),numeral singular determined,three
+"""dkhnyM""","Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 1",No data,,,,,,,,,,,,,דכהנים,None,No data,
+w($ryM,"Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 2",c,n03,,,,w_,?sryn,,,"and, also",twenty,,,ועשרים,(sryn,conjunction | numeral plural absolute,"and, also | twenty"
+wxd,"Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 3",c,n01,,,,w_,?d,,,"and, also",one,,,וחד,xd,conjunction | numeral singular absolute or construct,"and, also | one"
+"""dlwyM"";","Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 4",No data,,,,,,,,,,,,,דלוים;,None,No data,
+wh),"Masekhet: 71036, Page: 027, Side: 1, Line: 20, Word: 5",c,I,,,,w_,h?,,,"and, also",here! look!,,,והא,h),conjunction | interjection,"and, also | here! look!"
+h),"Masekhet: 71036, Page: 027, Side: 1, Line: 21, Word: 0",I,,,,,h?,,,,here! look!,,,,הא,h),interjection,here! look!
+qr),"Masekhet: 71036, Page: 027, Side: 1, Line: 21, Word: 1",noun sg. emphatic,,,,,"qry, qry?",,,,crying; reading,,,,קרא,qr),noun sg. emphatic,crying; reading
+"""blwyM"";","Masekhet: 71036, Page: 027, Side: 1, Line: 21, Word: 2",No data,,,,,,,,,,,,,בלוים;,None,No data,
+m)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 21, Word: 3",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+$n),"Masekhet: 71036, Page: 027, Side: 1, Line: 21, Word: 4",verb G,,,,,?ny,,,,to be different,to go away,,,שנא,$ny,verb peal,to be different | to go away
+"""hr","Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 0",No data,,,,,,,,,,,,,הר,None,No data,
+hbyt","Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 1",No data,,,,,,,,,,,,,הבית,None,No data,
+d(bdynN,"Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 2",c,verb G,,,,dy,?bd,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,דעבדינן,(bd,conjunction | verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+"""mtwkw"";","Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 3",No data,,,,,,,,,,,,,מתוכו;,None,No data,
+wm)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 4",c,P01,,,,w_,m?y,,,"and, also",what,,,ומאי,m)y,conjunction | preposition independent,"and, also | what"
+$n),"Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 5",verb G,,,,,?ny,,,,to be different,to go away,,,שנא,$ny,verb peal,to be different | to go away
+"""(zrh""","Masekhet: 71036, Page: 027, Side: 1, Line: 27, Word: 6",No data,,,,,,,,,,,,,עזרה,None,No data,
+d(bdyn',"Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 0",c,verb G,,,,dy,?bd,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,דעבדינ',(bd,conjunction | verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+"""mbxwC"";","Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 1",No data,,,,,,,,,,,,,מבחוץ;,None,No data,
+)mry,"Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+"""hr","Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 3",No data,,,,,,,,,,,,,הר,None,No data,
+hbyt","Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 4",No data,,,,,,,,,,,,,הבית,None,No data,
+d)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 5",c,c,,,,dy,?y,,,"who,which (relative)","if, whether",,,דאי,)y,conjunction | conjunction,"who,which (relative) | if, whether"
+tmh,"Masekhet: 71036, Page: 027, Side: 1, Line: 28, Word: 6",verb G,,,,,tmh,,,,"to wonder at, be amazed",to stand still in amazement,,,תמה,tmh,verb peal,"to wonder at, be amazed | to stand still in amazement"
+wb(y,"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 0",c,verb G,,,,w_,b?y,,,"to seek, look for",to ask a question,"to wish for something, want, request",to require,ובעי,b(y,conjunction | verb peal,"to seek, look for | to ask a question | to wish for something, want, request | to require"
+mytb,"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 1",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,מיתב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+mcy,"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 2",A01,,,,,m?y,,,,"able, capable",,,,מצי,mcy,adjective singular absolute or construct,"able, capable"
+ytyb;,"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 3",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,יתיב;,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+d)mryn',"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 4",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דאמרינ',)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+"""mtwkw;","Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 5",No data,,,,,,,,,,,,,מתוכו;,None,No data,
+(zrh","Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 6",No data,,,,,,,,,,,,,עזרה,None,No data,
+d)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 29, Word: 7",c,c,,,,dy,?y,,,"who,which (relative)","if, whether",,,דאי,)y,conjunction | conjunction,"who,which (relative) | if, whether"
+tmh,"Masekhet: 71036, Page: 027, Side: 1, Line: 30, Word: 0",verb G,,,,,tmh,,,,"to wonder at, be amazed",to stand still in amazement,,,תמה,tmh,verb peal,"to wonder at, be amazed | to stand still in amazement"
+mytb,"Masekhet: 71036, Page: 027, Side: 1, Line: 30, Word: 1",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,מיתב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+l),"Masekhet: 71036, Page: 027, Side: 1, Line: 30, Word: 2",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+mcy,"Masekhet: 71036, Page: 027, Side: 1, Line: 30, Word: 3",A01,,,,,m?y,,,,"able, capable",,,,מצי,mcy,adjective singular absolute or construct,"able, capable"
+ytyb;,"Masekhet: 71036, Page: 027, Side: 1, Line: 30, Word: 4",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,יתיב;,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+try,"Masekhet: 71036, Page: 027, Side: 1, Line: 35, Word: 0",n02,,,,,tryn,,,,two,,,,תרי,try,numeral singular determined,two
+mynyhw,"Masekhet: 71036, Page: 027, Side: 1, Line: 35, Word: 1",p02,,,,,mn,,,,from,,,,מיניהו,mn,preposition with pronominal suffix,from
+l),"Masekhet: 71036, Page: 027, Side: 1, Line: 35, Word: 2",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+cryky,"Masekhet: 71036, Page: 027, Side: 1, Line: 35, Word: 3",A01,,,,,?ryk,,,,poor; needy,,,,צריכי,cryk,adjective singular absolute or construct,poor; needy
+"""$ymwr"";","Masekhet: 71036, Page: 027, Side: 1, Line: 36, Word: 0",No data,,,,,,,,,,,,,שימור;,None,No data,
+tn)y,"Masekhet: 71036, Page: 027, Side: 1, Line: 36, Word: 1",noun pl. emphatic,,,,,"tny, tny?, tn?",,,,tanna,,,,תנאי,tn),noun pl. emphatic,tanna
+hy);,"Masekhet: 71036, Page: 027, Side: 1, Line: 36, Word: 2",P01,,,,,hy?,,,,she,,,,היא;,hy),preposition independent,she
+dl,"Masekhet: 71036, Page: 027, Side: 1, Line: 38, Word: 0",verb D,,,,,dly,,,,"to bring up out, to extract",to lift up,"to hold back, suspend",,דל,dly,verb pael,"to bring up out, to extract | to lift up | to hold back, suspend"
+xm$h,"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 0",n01,,,,,?m?,,,,five,,,,חמשה,xm$),numeral singular absolute or construct,five
+"""dhr","Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 1",No data,,,,,,,,,,,,,דהר,None,No data,
+hbyt";,"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 2",No data,,,,,,,,,,,,,הבית;,None,No data,
+p$w,"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 3",verb G,,,,,pw?,,,,"to stay back, remain",to be left over,usually with,"‏ :  to move away from something gradually, stop",פשו,pw$,verb peal,"to stay back, remain | to be left over | usually with | ‏ :  to move away from something gradually, stop"
+lhw,"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 4",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+tmny),"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 5",n02,,,,,tmny,,,,eight,,,,תמניא,tmny),numeral singular determined,eight
+"""d(zr'"";","Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 6",No data,,,,,,,,,,,,,דעזר';,None,No data,
+)lm',"Masekhet: 71036, Page: 027, Side: 1, Line: 39, Word: 7",c,,,,,"?l m?, ?l mn?, ?m?y",,,,why?,,,,אלמ',)lm),conjunction,why?
+)yk),"Masekhet: 71036, Page: 027, Side: 1, Line: 40, Word: 0",a,,,,,?yk?,,,,there is here,,,,איכא,)yk),adverb,there is here
+tn),"Masekhet: 71036, Page: 027, Side: 1, Line: 40, Word: 1",noun sg. emphatic,,,,,"tny, tny?, tn?",,,,tanna,,,,תנא,tn),noun sg. emphatic,tanna
+d)';,"Masekhet: 71036, Page: 027, Side: 1, Line: 40, Word: 2",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא';,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+tmny),"Masekhet: 71036, Page: 027, Side: 1, Line: 40, Word: 3",n02,,,,,tmny,,,,eight,,,,תמניא,tmny),numeral singular determined,eight
+hww;,"Masekhet: 71036, Page: 027, Side: 1, Line: 40, Word: 4",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו;,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+w)yk),"Masekhet: 71036, Page: 027, Side: 1, Line: 41, Word: 0",c,a,,,,w_,?yk?,,,"and, also",there is here,,,ואיכא,)yk),conjunction | adverb,"and, also | there is here"
+tn),"Masekhet: 71036, Page: 027, Side: 1, Line: 41, Word: 1",noun sg. emphatic,,,,,"tny, tny?, tn?",,,,tanna,,,,תנא,tn),noun sg. emphatic,tanna
+d)';,"Masekhet: 71036, Page: 027, Side: 1, Line: 41, Word: 2",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא';,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+xm$h,"Masekhet: 71036, Page: 027, Side: 1, Line: 41, Word: 3",n01,,,,,?m?,,,,five,,,,חמשה,xm$),numeral singular absolute or construct,five
+hww;,"Masekhet: 71036, Page: 027, Side: 1, Line: 41, Word: 4",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו;,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+)yydy,"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 0",c,,,,,?yydy,,,,"because, since",,,,איידי,)yydy,conjunction,"because, since"
+"""hw)","Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 1",No data,,,,,,,,,,,,,הוא,None,No data,
+hdyN","Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 2",No data,,,,,,,,,,,,,הדין,None,No data,
+d)pylw,"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 3",c,c,,,,dy,?pylw,,,"who,which (relative)","even if , even",,,דאפילו,)plw,conjunction | conjunction,"who,which (relative) | even if , even"
+"""hylwK""","Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 4",No data,,,,,,,,,,,,,הילוך,None,No data,
+nmy,"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 5",a,,,,,nmy,,,,also,,,,נמי,nmy,adverb,also
+l),"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 6",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+xz)y;,"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 7",verb G,,,,,?zy,,,,to see,(,") to understand, to realize",to visit,חזאי;,xzy,verb peal,"to see | ( | ) to understand, to realize | to visit"
+dqtny,"Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 8",c,verb G,,,,dy,tny,,,to repeat,"to narrate, recite",to sift flour [< Rabbinic Hebrew],,דקתני,tny,conjunction | verb peal,"to repeat | to narrate, recite | to sift flour [< Rabbinic Hebrew]"
+"""l)""","Masekhet: 71036, Page: 027, Side: 1, Line: 45, Word: 9",No data,,,,,,,,,,,,,לא,None,No data,
+"""hyw","Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 0",No data,,,,,,,,,,,,,היו,None,No data,
+y$ynyN","Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 1",No data,,,,,,,,,,,,,ישינין,None,No data,
+m$wM,"Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 2",c,,,,,m?wm,,,,"because, since",,,,משום,m$wm,conjunction,"because, since"
+db(y,"Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 3",c,verb G,,,,dy,b?y,,,"to seek, look for",to ask a question,"to wish for something, want, request",to require,דבעי,b(y,conjunction | verb peal,"to seek, look for | to ask a question | to wish for something, want, request | to require"
+lmytn),"Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 4",p02,verb G,,,,l_,tny,,,to repeat,"to narrate, recite",to sift flour [< Rabbinic Hebrew],,למיתנא,tny,preposition with pronominal suffix | verb peal,"to repeat | to narrate, recite | to sift flour [< Rabbinic Hebrew]"
+syp';,"Masekhet: 71036, Page: 027, Side: 1, Line: 46, Word: 5",noun sg. emphatic,,,,,"syp, syp?",,,,end,,,,סיפ';,syp),noun sg. emphatic,end
+$'m;,"Masekhet: 71036, Page: 027, Side: 1, Line: 51, Word: 0",verb G,,,,,?m?,,,,to hear (w. d.o. or,) something,to listen,,ש'מ;,$m(,verb peal,to hear (w. d.o. or | ) something | to listen
+tpyly,"Masekhet: 71036, Page: 027, Side: 1, Line: 51, Word: 1",noun pl. emphatic,,,,,"tpylh, tplt?",,,,phylactery,,,,תפילי,tpyly,noun pl. emphatic,phylactery
+"""mN","Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 0",No data,,,,,,,,,,,,,מן,None,No data,
+hcd","Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 1",No data,,,,,,,,,,,,,הצד,None,No data,
+$ryyN;,"Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 2",A03,,,,,?ry,,,,"free, unrestrained",,,,שריין;,$ry,adjective plural absolute,"free, unrestrained"
+wl),"Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 3",c,a,,,,w_,l?,,,"and, also","no, not",,,ולא,l),conjunction | adverb,"and, also | no, not"
+xyy$yn',"Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 4",verb G,,,,,???,,,,"to sense, to feel","to suffer, be ill",to care about,,חיישינ',x$$,verb peal,"to sense, to feel | to suffer, be ill | to care about"
+dyl',"Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 5",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+m?y?gn?dr?,"Masekhet: 71036, Page: 027, Side: 1, Line: 52, Word: 6",verb quad T,,,,,gndr,,,,to roll something,,,,מיגנדר,gndr,verb quad T,to roll something
+wnpyl,"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 0",c,verb G,,,,w_,npl,,,to fall,"to befall, occur",:,:,ונפיל,npl,conjunction | verb peal,"to fall | to befall, occur | : | :"
+(lyhw;,"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 1",p02,,,,,?l,,,,upon; against; to,,,,עליהו;,(l,preposition with pronominal suffix,upon; against; to
+hky,"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 2",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+nmy,"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 3",a,,,,,nmy,,,,also,,,,נמי,nmy,adverb,also
+mstbr),"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 4",verb Gt,,,,,sbr,,,,"to be reasonable, seem to be the case",to be considered,to have hope for,,מסתברא,sbr,verb ethpeel,"to be reasonable, seem to be the case | to be considered | to have hope for"
+"""dkngd","Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 5",No data,,,,,,,,,,,,,דכנגד,None,No data,
+r)$yhN";,"Masekhet: 71036, Page: 027, Side: 1, Line: 53, Word: 6",No data,,,,,,,,,,,,,ראשיהן;,None,No data,
+wky,"Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 0",c,c,,,,w_,ky,,,"and, also",when,,,וכי,ky,conjunction | conjunction,"and, also | when"
+tym';,"Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 1",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,תימ';,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+"""kl)yM","Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 2",No data,,,,,,,,,,,,,כלאים,None,No data,
+blby$),"Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 3",No data,,,,,,,,,,,,,בלבישא,None,No data,
+wh(l)h","Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 4",No data,,,,,,,,,,,,,והעלאה,None,No data,
+hw),"Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 5",P01,,,,,hw?,,,,he,,,,הוא,hw),preposition independent,he
+?d)syr?;,"Masekhet: 71036, Page: 027, Side: 2, Line: 04, Word: 6",c,A01,,,,dy,?syr,,,"who,which (relative)",captured; forbidden,,,דאסיר;,)syr,conjunction | adjective singular absolute or construct,"who,which (relative) | captured; forbidden"
+)bl,"Masekhet: 71036, Page: 027, Side: 2, Line: 05, Word: 0",No data,,,,,,,,,,,,,אבל,None,No data,
+mymK,"Masekhet: 71036, Page: 027, Side: 2, Line: 05, Word: 1",noun pl. emphatic,,,,,"myyn, my?",,,,water,,,,מימך,my),noun pl. emphatic,water
+twtyh,"Masekhet: 71036, Page: 027, Side: 2, Line: 05, Word: 2",p,,,,,"t?wt, t?yt, t?t",,,,under; instead of,,,,תותיה,twty,preposition,under; instead of
+$ry;,"Masekhet: 71036, Page: 027, Side: 2, Line: 05, Word: 3",A01,,,,,?ry,,,,"free, unrestrained",,,,שרי;,$ry,adjective singular absolute or construct,"free, unrestrained"
+wky,"Masekhet: 71036, Page: 027, Side: 2, Line: 08, Word: 0",c,c,,,,w_,ky,,,"and, also",when,,,וכי,ky,conjunction | conjunction,"and, also | when"
+tym',"Masekhet: 71036, Page: 027, Side: 2, Line: 08, Word: 1",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,תימ',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+dmpsyq,"Masekhet: 71036, Page: 027, Side: 2, Line: 08, Word: 2",c,verb C,,,,dy,psq,,,"to divide, to sever","to interrupt, make stop",to bestow,,דמפסיק,psq,conjunction | verb (h)aphel,"to divide, to sever | to interrupt, make stop | to bestow"
+mydy,"Masekhet: 71036, Page: 027, Side: 2, Line: 08, Word: 3",R,,,,,"md?m, mdm, mydy",,,,something,,,,מידי,mydy,R,something
+?byny? wb?y?n?y?;,"Masekhet: 71036, Page: 027, Side: 2, Line: 08, Word: 4",a,,,,,byny byny,,,,in the meantime; in the middle,,,,ביני וביני;,byny@byny,adverb,in the meantime; in the middle
+m$wM,"Masekhet: 71036, Page: 027, Side: 2, Line: 10, Word: 0",p01,,,,,m?wm,,,,because of,,,,משום,m$wm,preposition independent,because of
+qhl),"Masekhet: 71036, Page: 027, Side: 2, Line: 10, Word: 1",noun sg. emphatic,,,,,"qhl, qhl?",,,,"congregation, community",,,,קהלא,qhl),noun sg. emphatic,"congregation, community"
+q?dy?$?)?,"Masekhet: 71036, Page: 027, Side: 2, Line: 10, Word: 2",A02,,,,,qdy?,,,,holy,,,,קדישא,qdy$,adjective singular determined,holy
+"""$byrw$lyM"";","Masekhet: 71036, Page: 027, Side: 2, Line: 10, Word: 3",No data,,,,,,,,,,,,,שבירושלים;,None,No data,
+h)y,"Masekhet: 71036, Page: 027, Side: 2, Line: 15, Word: 0",P01,,,,,h?y,,,,this,,,,האי,h)y,preposition independent,this
+nmT),"Masekhet: 71036, Page: 027, Side: 2, Line: 15, Word: 1",noun sg. emphatic,,,,,"nm?, nm??",,,,felt cloth,,,,נמטא,nmT),noun sg. emphatic,felt cloth
+gmd),"Masekhet: 71036, Page: 027, Side: 2, Line: 15, Word: 2",A02,,,,,gmd,,,,shrunk,,,,גמדא,gmd,adjective singular determined,shrunk
+dnr$,"Masekhet: 71036, Page: 027, Side: 2, Line: 15, Word: 3",p,,,,,dy,,,,"of, genitive particle",,,,דנרש,d_,preposition,"of, genitive particle"
+$ry);,"Masekhet: 71036, Page: 027, Side: 2, Line: 15, Word: 4",A01,,,,,?ry,,,,"free, unrestrained",,,,שריא;,$ry,adjective singular absolute or construct,"free, unrestrained"
+rb,"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 0",noun sg. emphatic,,,,,"rb, rb?",,,,chief; teacher,,,,רב,rb,noun sg. emphatic,chief; teacher
+spr),"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 1",No data,,,,,,,,,,,,,ספרא,None,No data,
+hwh,"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 2",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוה,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+ytyb,"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 3",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,יתיב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+"""bbyt","Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 4",No data,,,,,,,,,,,,,בבית,None,No data,
+hks)";,"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 5",No data,,,,,,,,,,,,,הכסא;,None,No data,
+)t),"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 6",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתא,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+r',"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 7",No data,,,,,,,,,,,,,ר',None,No data,
+)b),"Masekhet: 71036, Page: 027, Side: 2, Line: 27, Word: 8",No data,,,,,,,,,,,,,אבא,None,No data,
+nxr,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 0",verb G,,,,,n?r,,,,to pant,"to snore, snort",to rebuke,,נחר,nxr#2,verb peal,"to pant | to snore, snort | to rebuke"
+lyh;,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 1",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+)'l;,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א'ל;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+ly?(?wl,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 3",verb G,,,,,?ll,,,,to enter,w.,:  to have sexual relations with,"+ in years, days : to be advanced in age",ליעול,(ll,verb peal,"to enter | w. | :  to have sexual relations with | + in years, days : to be advanced in age"
+mr;,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 4",noun sg. emphatic,,,,,"mr, mr?, m?r?",,,,a type of spade,,,,מר;,mr,noun sg. emphatic,a type of spade
+^)'l^;,"Masekhet: 71036, Page: 027, Side: 2, Line: 28, Word: 5",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א'ל;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+(d,"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 0",p01,,,,,?d,,,,until,,,,עד,(d,preposition independent,until
+k)N,"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 1",a,,,,,k?n,,,,here,,,,כאן,k)n,adverb,here
+l),"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 2",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+slqt,"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 3",verb G,,,,,slq,,,,to go up,to result,to travel,idioms:,סלקת,slq,verb peal,to go up | to result | to travel | idioms:
+"""l$(yr"";","Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 4",No data,,,,,,,,,,,,,לשעיר;,None,No data,
+gmrt,"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 5",verb G,,,,,gmr,,,,trans.,intrans.,,,גמרת,gmr,verb peal,trans. | intrans.
+myly,"Masekhet: 71036, Page: 027, Side: 2, Line: 29, Word: 6",noun pl. emphatic,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילי,mylt),noun pl. emphatic,"word, speech; thing"
+"""d$(yr"";","Masekhet: 71036, Page: 027, Side: 2, Line: 30, Word: 0",No data,,,,,,,,,,,,,דשעיר;,None,No data,
+l)w,"Masekhet: 71036, Page: 027, Side: 2, Line: 30, Word: 1",a,,,,,"l?w, lw",,,,"not, it is not",,,,לאו,l)w,adverb,"not, it is not"
+hky,"Masekhet: 71036, Page: 027, Side: 2, Line: 30, Word: 2",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+tnN,"Masekhet: 71036, Page: 027, Side: 2, Line: 30, Word: 3",verb G,,,,,tny,,,,to repeat,"to narrate, recite",to sift flour [< Rabbinic Hebrew],,תנן,tny,verb peal,"to repeat | to narrate, recite | to sift flour [< Rabbinic Hebrew]"
+..;,"Masekhet: 71036, Page: 027, Side: 2, Line: 30, Word: 4",No data,,,,,,,,,,,,,;,None,No data,
+lmymr),"Masekhet: 71036, Page: 027, Side: 2, Line: 31, Word: 0",p02,verb G,,,,l_,?mr,,,to say,to command,to think,idiomatic and special usages:,למימרא,)mr,preposition with pronominal suffix | verb peal,to say | to command | to think | idiomatic and special usages:
+dl),"Masekhet: 71036, Page: 027, Side: 2, Line: 31, Word: 1",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+myb(y,"Masekhet: 71036, Page: 027, Side: 2, Line: 31, Word: 2",verb Gt,,,,,b?y,,,,to be sought,"to be necessary, required",to ask one another,,מיבעי,b(y,verb ethpeel,"to be sought | to be necessary, required | to ask one another"
+lmyzl;,"Masekhet: 71036, Page: 027, Side: 2, Line: 31, Word: 3",p02,verb G,,,,l_,?zl,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",למיזל;,)zl,preposition with pronominal suffix | verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+wrb,"Masekhet: 71036, Page: 027, Side: 2, Line: 32, Word: 0",c,noun sg. emphatic,,,,w_,"rb, rb?",,,"and, also",chief; teacher,,,ורב,rb,conjunction | noun sg. emphatic,"and, also | chief; teacher"
+spr),"Masekhet: 71036, Page: 027, Side: 2, Line: 32, Word: 1",No data,,,,,,,,,,,,,ספרא,None,No data,
+sbr,"Masekhet: 71036, Page: 027, Side: 2, Line: 32, Word: 2",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סבר,sbr,verb peal,to have thoughts | idioms:
+dyl',"Masekhet: 71036, Page: 027, Side: 2, Line: 32, Word: 3",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+ms^t^kN;,"Masekhet: 71036, Page: 027, Side: 2, Line: 32, Word: 4",verb Dt,,,,,skn,,,,to be in mortal danger,to endanger oneself,,,מסתכן;,skn,verb ethpaal,to be in mortal danger | to endanger oneself
+)'l,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א'ל,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+rb,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 1",noun sg. emphatic,,,,,"rb, rb?",,,,chief; teacher,,,,רב,rb,noun sg. emphatic,chief; teacher
+lr',"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 2",No data,,,,,,,,,,,,,לר',None,No data,
+xyy),"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 3",No data,,,,,,,,,,,,,חייא,None,No data,
+bryh;,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 4",noun sg. emphatic,,,,,"br, br?",,,,son,,,,בריה;,br),noun sg. emphatic,son
+wkN,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 5",c,a,,,,w_,kn,,,"and, also","thus, so",,,וכן,kn,conjunction | adverb,"and, also | thus, so"
+)'l,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 6",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א'ל,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+rb,"Masekhet: 71036, Page: 027, Side: 2, Line: 35, Word: 7",No data,,,,,,,,,,,,,רב,None,No data,
+hwn),"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 0",No data,,,,,,,,,,,,,הונא,None,No data,
+lrbh,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 1",p03,,,,,l_,,,,"to, for",,,,לרבה,l_,preposition proclitic,"to, for"
+bryh;,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 2",noun sg. emphatic,,,,,"br, br?",,,,son,,,,בריה;,br),noun sg. emphatic,son
+x$yK,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 3",verb D,,,,,??k,,,,to darken (trans.),to come at evening,,,חשיך,x$k,verb pael,to darken (trans.) | to come at evening
+tqyN,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 4",verb D,,,,,tqn,,,,"to establish properly, correct","to place, install","to ordain, declare",,תקין,tqn,verb pael,"to establish properly, correct | to place, install | to ordain, declare"
+np$K,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 5",noun sg. emphatic,,,,,"np?, np??",,,,soul; life; self,,,,נפשך,np$),noun sg. emphatic,soul; life; self
+wqdyM,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 6",c,verb D,,,,w_,qdm,,,to precede,to come before in space,to greet someone,‏ : to set forth,וקדים,qdm,conjunction | verb pael,to precede | to come before in space | to greet someone | ‏ : to set forth
+tqyN,"Masekhet: 71036, Page: 027, Side: 2, Line: 36, Word: 7",verb D,,,,,tqn,,,,"to establish properly, correct","to place, install","to ordain, declare",,תקין,tqn,verb pael,"to establish properly, correct | to place, install | to ordain, declare"
+np$K;,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 0",noun sg. emphatic,,,,,"np?, np??",,,,soul; life; self,,,,נפשך;,np$),noun sg. emphatic,soul; life; self
+ky hyky,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 1",c,,,,,"ky hyky, khykyn",,,,in order that,,,,כי היכי,ky@hyky,conjunction,in order that
+dl),"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 2",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+trxq;,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 3",verb G,,,,,r?q,,,,"to be(come) distant, go away",fig. : to abandon,,,תרחק;,rxq,verb peal,"to be(come) distant, go away | fig. : to abandon"
+tyb,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 4",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,תיב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+wgly,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 5",c,verb D,,,,w_,gly,,,"to reveal (secrets, revelations)",to uncover,to exile,"to go into exile, emigrate",וגלי,gly#2,conjunction | verb pael,"to reveal (secrets, revelations) | to uncover | to exile | to go into exile, emigrate"
+ksy,"Masekhet: 71036, Page: 027, Side: 2, Line: 37, Word: 6",noun pl. emphatic,,,,,"ks, ks?",,,,"large cup, bowl",,,,כסי,ks),noun pl. emphatic,"large cup, bowl"
+wqwM;,"Masekhet: 71036, Page: 027, Side: 2, Line: 38, Word: 0",c,verb G,,,,w_,qwm,,,to rise,"to stand, to be raised up","to stand still, to stop",with various prepositions,וקום;,qwm,conjunction | verb peal,"to rise | to stand, to be raised up | to stand still, to stop | with various prepositions"
+$TwP,"Masekhet: 71036, Page: 027, Side: 2, Line: 38, Word: 1",verb G,,,,,??p,,,,to be awash,to wash,to inundate,fig.,שטוף,$Tp,verb peal,to be awash | to wash | to inundate | fig.
+w$ty,"Masekhet: 71036, Page: 027, Side: 2, Line: 38, Word: 2",c,verb G,,,,w_,?ty,,,to drink,"to be irrigated, absorb water",to smoke tobacco,,ושתי,$ty,conjunction | verb peal,"to drink | to be irrigated, absorb water | to smoke tobacco"
+$TwP,"Masekhet: 71036, Page: 027, Side: 2, Line: 38, Word: 3",verb G,,,,,??p,,,,to be awash,to wash,to inundate,fig.,שטוף,$Tp,verb peal,to be awash | to wash | to inundate | fig.
+w)xyt;,"Masekhet: 71036, Page: 027, Side: 2, Line: 38, Word: 4",c,verb C,,,,w_,n?t,,,to lower,,,,ואחית;,nxt,conjunction | verb (h)aphel,to lower
+hylkK,"Masekhet: 71036, Page: 027, Side: 2, Line: 45, Word: 0",a,,,,,"hwlkk, hylkk",,,,therefore,,,,הילכך,hwlkk,adverb,therefore
+h)y,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 0",P01,,,,,h?y,,,,this,,,,האי,h)y,preposition independent,this
+tlmyd),"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 1",noun sg. emphatic,,,,,"tlmyd, tlmyd?",,,,student,,,,תלמידא,tlmyd),noun sg. emphatic,student
+d$pyK,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 2",c,verb G,,,,dy,?pk,,,"to pour out, spill (tr.)",to spill (intr.),,,דשפיך,$pk,conjunction | verb peal,"to pour out, spill (tr.) | to spill (intr.)"
+qmyh,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 3",p02,,,,,"qwmy, qmy",,,,before,,,,קמיה,qmy,preposition with pronominal suffix,before
+rbyh,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 4",noun sg. emphatic,,,,,"rb, rb?",,,,chief; teacher,,,,רביה,rb),noun sg. emphatic,chief; teacher
+lyt,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 5",V,,,,,"lyt, l)yty",,,,there is/are not,,,,לית,lyt,V,there is/are not
+byh,"Masekhet: 71036, Page: 027, Side: 2, Line: 46, Word: 6",p02,,,,,b_,,,,"in, with",,,,ביה,b_,preposition with pronominal suffix,"in, with"
+m$wM,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 0",p01,,,,,m?wm,,,,because of,,,,משום,m$wm,preposition independent,because of
+)pyqrwt);,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 1",noun sg. emphatic,,,,,"?pqrw, ?pqrwt?",,,,"licentiousness, irreverence",,,,אפיקרותא;,)pqrwt),noun sg. emphatic,"licentiousness, irreverence"
+kl,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 2",noun sg. abs. or construct,,,,,"kl, kl?",,,,"all, every",,,,כל,kl,noun sg. abs. or construct,"all, every"
+myly,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 3",noun pl. emphatic,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילי,mylt),noun pl. emphatic,"word, speech; thing"
+l),"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 4",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+tplwT,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 5",verb G,,,,,pl?,,,,(intrans.) to escape,(trans.) to eject,,,תפלוט,plT,verb peal,(intrans.) to escape | (trans.) to eject
+qmy,"Masekhet: 71036, Page: 027, Side: 2, Line: 47, Word: 6",p01,,,,,"qwmy, qmy",,,,before,,,,קמי,qmy,preposition independent,before
+rbK,"Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 0",noun sg. emphatic,,,,,"rb, rb?",,,,chief; teacher,,,,רבך,rb),noun sg. emphatic,chief; teacher
+br,"Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 1",p01,,,,,"br mn, br m_",,,,except for; outside of,,,,בר,br@mn,preposition independent,except for; outside of
+mqr),"Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 2",noun sg. emphatic,,,,,"qr?, qr?",,,,Bible reader,,,,מקרא,qr)#3,noun sg. emphatic,Bible reader
+wdyys);,"Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 3",c,noun sg. emphatic,,,,w_,"dys, dys?",,,"and, also",a type of porridge,,,ודייסא;,dyys),conjunction | noun sg. emphatic,"and, also | a type of porridge"
+dky,"Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 4",c,p01,,,,dy,ky,,,"who,which (relative)",like,,,דכי,ky,conjunction | preposition independent,"who,which (relative) | like"
+"""ptylh","Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 5",No data,,,,,,,,,,,,,פתילה,None,No data,
+$l","Masekhet: 71036, Page: 027, Side: 2, Line: 48, Word: 6",No data,,,,,,,,,,,,,של,None,No data,
+""")br""","Masekhet: 71036, Page: 027, Side: 2, Line: 49, Word: 0",No data,,,,,,,,,,,,,אבר,None,No data,
+dmy;,"Masekhet: 71036, Page: 027, Side: 2, Line: 49, Word: 1",verb G,,,,,dmy,,,,to be like,ptcp. :,,,דמי;,dmy,verb peal,to be like | ptcp. :
+ky,"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 0",p01,,,,,ky,,,,like,,,,כי,ky,preposition independent,like
+mTy,"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 1",verb G,,,,,m?y,,,,"to come, to reach","to happen, occur","to be able, achieve",,מטי,mTy,verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+r',"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 2",No data,,,,,,,,,,,,,ר',None,No data,
+ywxn',"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 3",No data,,,,,,,,,,,,,יוחנ',None,No data,
+bh),"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 4",p02,P01,,,,b_,h?,,,"in, with",this (f.),,,בהא,h),preposition with pronominal suffix | preposition independent,"in, with | this (f.)"
+mtnyt),"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 5",noun sg. emphatic,,,,,"mtny, mtnyt?",,,,tannaitic tradition,,,,מתניתא,mtnyt),noun sg. emphatic,tannaitic tradition
+)',"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 6",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+hky;,"Masekhet: 71036, Page: 028, Side: 1, Line: 07, Word: 7",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי;,hky,X,"so, thus"
+h),"Masekhet: 71036, Page: 028, Side: 1, Line: 23, Word: 0",P,,,,,h?,,,,this (f.),,,,הא,h),P,this (f.)
+gwph,"Masekhet: 71036, Page: 028, Side: 1, Line: 23, Word: 1",noun sg. emphatic,,,,,"gwp, gwp?",,,,body,,,,גופה,gwp),noun sg. emphatic,body
+q$y);,"Masekhet: 71036, Page: 028, Side: 1, Line: 23, Word: 2",A01,,,,,q?y,,,,hard,,,,קשיא;,q$y,adjective singular absolute or construct,hard
+)lm',"Masekhet: 71036, Page: 028, Side: 1, Line: 26, Word: 0",c,,,,,"?l m?, ?l mn?, ?m?y",,,,why?,,,,אלמ',)lm),conjunction,why?
+"""bpyys""","Masekhet: 71036, Page: 028, Side: 1, Line: 26, Word: 1",No data,,,,,,,,,,,,,בפייס,None,No data,
+tly),"Masekhet: 71036, Page: 028, Side: 1, Line: 26, Word: 2",verb G,,,,,tly,,,,"to suspend, hang up",to lift up (esp. eyes),"fig. : to suspend certainty, be undecided","to make dependent, hold responsible",תליא,tly,verb peal,"to suspend, hang up | to lift up (esp. eyes) | fig. : to suspend certainty, be undecided | to make dependent, hold responsible"
+mylt);,"Masekhet: 71036, Page: 028, Side: 1, Line: 27, Word: 0",noun sg. emphatic,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילתא;,mylt),noun sg. emphatic,"word, speech; thing"
+lmymr',"Masekhet: 71036, Page: 028, Side: 2, Line: 18, Word: 0",p02,verb G,,,,l_,?mr,,,to say,to command,to think,idiomatic and special usages:,למימר',)mr,preposition with pronominal suffix | verb peal,to say | to command | to think | idiomatic and special usages:
+"""dxbytyM""","Masekhet: 71036, Page: 028, Side: 2, Line: 18, Word: 1",No data,,,,,,,,,,,,,דחביתים,None,No data,
+hww,"Masekhet: 71036, Page: 028, Side: 2, Line: 18, Word: 2",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+qdmy,"Masekhet: 71036, Page: 028, Side: 2, Line: 18, Word: 3",verb G,,,,,qdm,,,,"to come before in time, precede","to do beforehand, to do something first",to approach,,קדמי,qdm,verb peal,"to come before in time, precede | to do beforehand, to do something first | to approach"
+gwzm),"Masekhet: 71036, Page: 029, Side: 1, Line: 18, Word: 0",noun sg. emphatic,,,,,gwzm?,,,,hyperbole,,,,גוזמא,gwzm),noun sg. emphatic,hyperbole
+gwzm),"Masekhet: 71036, Page: 029, Side: 1, Line: 19, Word: 0",noun sg. emphatic,,,,,gwzm?,,,,hyperbole,,,,גוזמא,gwzm),noun sg. emphatic,hyperbole
+sl',"Masekhet: 71036, Page: 029, Side: 1, Line: 20, Word: 0",verb G,,,,,slq,,,,to go up,to result,to travel,idioms:,סל',slq,verb peal,to go up | to result | to travel | idioms:
+d(';,"Masekhet: 71036, Page: 029, Side: 1, Line: 20, Word: 1",noun sg. emphatic,,,,,"d?t, d?t?",,,,knowledge,,,,דע';,d(t),noun sg. emphatic,knowledge
+)l),"Masekhet: 71036, Page: 029, Side: 1, Line: 20, Word: 2",c,,,,,?l?,,,,but rather,,,,אלא,)l),conjunction,but rather
+g?w?zm),"Masekhet: 71036, Page: 029, Side: 1, Line: 20, Word: 3",noun sg. emphatic,,,,,gwzm?,,,,hyperbole,,,,גוזמא,gwzm),noun sg. emphatic,hyperbole
+l)pwqy,"Masekhet: 71036, Page: 029, Side: 1, Line: 30, Word: 0",p02,verb C,,,,l_,npq,,,"to bring forth, produce","to remove, expel",to expend,to produce a text,לאפוקי,npq,preposition with pronominal suffix | verb (h)aphel,"to bring forth, produce | to remove, expel | to expend | to produce a text"
+mdrb);,"Masekhet: 71036, Page: 029, Side: 1, Line: 30, Word: 1",No data,,,,,,,,,,,,,מדרבא;,None,No data,
+<gwzm)#10#>;,"Masekhet: 71036, Page: 029, Side: 1, Line: 30, Word: 2",noun sg. emphatic,,,,,gwzm?,,,,hyperbole,,,,גוזמא;,gwzm),noun sg. emphatic,hyperbole
+hny,"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 0",P01,,,,,hny,,,,"these, those",,,,הני,hny,preposition independent,"these, those"
+m)y,"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 1",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+T(',"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 2",noun sg. emphatic,,,,,"??m, ??m?",,,,taste; order,,,,טע',T(m),noun sg. emphatic,taste; order
+..;,"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 3",No data,,,,,,,,,,,,,;,None,No data,
+m$wM,"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 4",c,,,,,m?wm,,,,"because, since",,,,משום,m$wm,conjunction,"because, since"
+dqTmy;,"Masekhet: 71036, Page: 029, Side: 2, Line: 12, Word: 5",c,verb G,,,,dy,q?m,,,to be turned to ash,to turn something into ashes,,,דקטמי;,qTm#2,conjunction | verb peal,to be turned to ash | to turn something into ashes
+m)y,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 0",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+nyhw;,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 1",P01,,,,,nyhw,,,,he,,,,ניהו;,nyhw,preposition independent,he
+dwqry,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 2",c,noun pl. emphatic,,,,dy,dwqr?,,,"who,which (relative)",a group of reeds,,,דוקרי,dwqr),conjunction | noun pl. emphatic,"who,which (relative) | a group of reeds"
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 3",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+qTmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 4",verb G,,,,,q?m,,,,to be turned to ash,to turn something into ashes,,,קטמי,qTm#2,verb peal,to be turned to ash | to turn something into ashes
+w)zly,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 5",c,verb G,,,,w_,?zl,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",ואזלי,)zl,conjunction | verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+myqTM;,"Masekhet: 71036, Page: 029, Side: 2, Line: 16, Word: 6",verb G,,,,,q?m,,,,to be turned to ash,to turn something into ashes,,,מיקטם;,qTm#2,verb peal,to be turned to ash | to turn something into ashes
+b$lm',"Masekhet: 71036, Page: 029, Side: 2, Line: 21, Word: 0",a,,,,,b?lm?,,,,it is all right,,,,בשלמ',b$lm),adverb,it is all right
+lm)N,"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 0",p03,P01,,,,l_,mn,,,"to, for",who?,,,למאן,m)n,preposition proclitic | preposition independent,"to, for | who?"
+d)',"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 1",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא',)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+m$wM,"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 2",c,,,,,m?wm,,,,"because, since",,,,משום,m$wm,conjunction,"because, since"
+dqTmy;,"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 3",c,verb G,,,,dy,q?m,,,to be turned to ash,to turn something into ashes,,,דקטמי;,qTm#2,conjunction | verb peal,to be turned to ash | to turn something into ashes
+bh),"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 4",p02,P01,,,,b_,h?,,,"in, with",this (f.),,,בהא,h),preposition with pronominal suffix | preposition independent,"in, with | this (f.)"
+plygy;,"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 5",verb G,,,,,plg,,,,to divide (trans.),to be in the middle,"to be distinctive, outstanding","to be halved, become divided",פליגי;,plg,verb peal,"to divide (trans.) | to be in the middle | to be distinctive, outstanding | to be halved, become divided"
+mr,"Masekhet: 71036, Page: 029, Side: 2, Line: 22, Word: 6",noun sg. emphatic,,,,,"mr, mr?, m?r?",,,,a type of spade,,,,מר,mr,noun sg. emphatic,a type of spade
+sbr;,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 0",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סבר;,sbr,verb peal,to have thoughts | idioms:
+)('g,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 1",c,,,,,?p ?l gb,,,,even though,,,,אע'ג,)p@(l@gb,conjunction,even though
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 2",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+qTmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 3",verb G,,,,,q?m,,,,to be turned to ash,to turn something into ashes,,,קטמי,qTm#2,verb peal,to be turned to ash | to turn something into ashes
+mgw)y;,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 4",a,,,,,mn gw,,,,from inside of,,,,מגואי;,mgw)y,adverb,from inside of
+kywN,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 5",c,,,,,kywn,,,,"when, since",,,,כיון,kywn,conjunction,"when, since"
+dqTmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 23, Word: 6",c,verb G,,,,dy,q?m,,,to be turned to ash,to turn something into ashes,,,דקטמי,qTm#2,conjunction | verb peal,to be turned to ash | to turn something into ashes
+m)br)y,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 0",a,,,,,m?br?y,,,,from without,,,,מאבראי,m)br)y,adverb,from without
+l),"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 1",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+myytynN;,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 2",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,מייתינן;,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+wmr,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 3",c,noun sg. emphatic,,,,w_,"mr, mr?, m?r?",,,"and, also",a type of spade,,,ומר,mr,conjunction | noun sg. emphatic,"and, also | a type of spade"
+sbr;,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 4",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סבר;,sbr,verb peal,to have thoughts | idioms:
+kywN,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 5",c,,,,,kywn,,,,"when, since",,,,כיון,kywn,conjunction,"when, since"
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 6",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+qTmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 24, Word: 7",verb G,,,,,q?m,,,,to be turned to ash,to turn something into ashes,,,קטמי,qTm#2,verb peal,to be turned to ash | to turn something into ashes
+mgw)y;,"Masekhet: 71036, Page: 029, Side: 2, Line: 25, Word: 0",a,,,,,mn gw,,,,from inside of,,,,מגואי;,mgw)y,adverb,from inside of
+)('g,"Masekhet: 71036, Page: 029, Side: 2, Line: 25, Word: 1",c,,,,,?p ?l gb,,,,even though,,,,אע'ג,)p@(l@gb,conjunction,even though
+dqTmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 25, Word: 2",c,verb G,,,,dy,q?m,,,to be turned to ash,to turn something into ashes,,,דקטמי,qTm#2,conjunction | verb peal,to be turned to ash | to turn something into ashes
+m)br)y,"Masekhet: 71036, Page: 029, Side: 2, Line: 25, Word: 3",a,,,,,m?br?y,,,,from without,,,,מאבראי,m)br)y,adverb,from without
+myytynN;,"Masekhet: 71036, Page: 029, Side: 2, Line: 25, Word: 4",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,מייתינן;,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+wlyT(myK;,"Masekhet: 71036, Page: 029, Side: 2, Line: 28, Word: 0",c,noun sg. emphatic,,,,w_,"??m, ??m?",,,"and, also",taste; order,,,וליטעמיך;,T(m),conjunction | noun sg. emphatic,"and, also | taste; order"
+"""t)nh""","Masekhet: 71036, Page: 029, Side: 2, Line: 28, Word: 1",No data,,,,,,,,,,,,,תאנה,None,No data,
+"""yy$wb","Masekhet: 71036, Page: 029, Side: 2, Line: 28, Word: 2",No data,,,,,,,,,,,,,יישוב,None,No data,
+)rC,"Masekhet: 71036, Page: 029, Side: 2, Line: 28, Word: 3",No data,,,,,,,,,,,,,ארץ,None,No data,
+y$r'";,"Masekhet: 71036, Page: 029, Side: 2, Line: 28, Word: 4",No data,,,,,,,,,,,,,ישר';,None,No data,
+my,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 0",c,,,,,my,,,,interrogative particle,,,,מי,my,conjunction,interrogative particle
+lyt,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 1",V,,,,,"lyt, l)yty",,,,there is/are not,,,,לית,lyt,V,there is/are not
+byh;,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 2",p02,,,,,b_,,,,"in, with",,,,ביה;,b_,preposition with pronominal suffix,"in, with"
+)l),"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 3",c,,,,,?l?,,,,but rather,,,,אלא,)l),conjunction,but rather
+mh,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 4",c,,,,,"mh, mh d_, mdy",,,,what,,,,מה,mh,conjunction,what
+)yt,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 5",V,,,,,?yt,,,,"there is, exists",,,,אית,)yt,V,"there is, exists"
+lK,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 6",p02,,,,,l_,,,,"to, for",,,,לך,l_,preposition with pronominal suffix,"to, for"
+lmymr;,"Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 7",p02,verb G,,,,l_,?mr,,,to say,to command,to think,idiomatic and special usages:,למימר;,)mr,preposition with pronominal suffix | verb peal,to say | to command | to think | idiomatic and special usages:
+"""bt)nh""","Masekhet: 71036, Page: 029, Side: 2, Line: 29, Word: 8",No data,,,,,,,,,,,,,בתאנה,None,No data,
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 0",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+(bdh,"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 1",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עבדה,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+pyry;,"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 2",noun pl. emphatic,,,,,"pyr, pyr?",,,,fruit,,,,פירי;,pyr),noun pl. emphatic,fruit
+"""dql""","Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 3",No data,,,,,,,,,,,,,דקל,None,No data,
+nmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 4",a,,,,,nmy,,,,also,,,,נמי,nmy,adverb,also
+"""bdql""","Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 5",No data,,,,,,,,,,,,,בדקל,None,No data,
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 6",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+(byd,"Masekhet: 71036, Page: 029, Side: 2, Line: 30, Word: 7",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עביד,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+pyry;,"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 0",noun pl. emphatic,,,,,"pyr, pyr?",,,,fruit,,,,פירי;,pyr),noun pl. emphatic,fruit
+wmy,"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 1",c,c,,,,w_,my,,,"and, also",interrogative particle,,,ומי,my,conjunction | conjunction,"and, also | interrogative particle"
+)yk),"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 2",a,,,,,?yk?,,,,there is here,,,,איכא,)yk),adverb,there is here
+"""t)nh""","Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 3",No data,,,,,,,,,,,,,תאנה,None,No data,
+dl),"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 4",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+(byd,"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 5",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עביד,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+pyry;,"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 6",noun pl. emphatic,,,,,"pyr, pyr?",,,,fruit,,,,פירי;,pyr),noun pl. emphatic,fruit
+)yN;,"Masekhet: 71036, Page: 029, Side: 2, Line: 31, Word: 7",I,,,,,?yn,,,,yes,,,,אין;,)yn,interjection,yes
+kdrxbh;,"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 0",p,,,,,"kd_, ky d_",,,,according to,,,,כדרחבה;,kd_,preposition,according to
+d)',"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 1",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא',)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+rxbh;,"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 2",No data,,,,,,,,,,,,,רחבה;,None,No data,
+myyty,"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 3",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,מייתי,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+t)yny,"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 4",noun pl. emphatic,,,,,"t?nh, t?nt?",,,,fig,,,,תאיני,t)ynt),noun pl. emphatic,fig
+xywwr)t),"Masekhet: 71036, Page: 029, Side: 2, Line: 32, Word: 5",A05,,,,,?wr,,,,white,,,,חיווראתא,xywr,adjective plural determined,white
+w$y{{b}}^p^y,"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 0",c,verb G,,,,w_,?wp,,,to smear,to rub down or grind against,,,ושיבפי,$wp,conjunction | verb peal,to smear | to rub down or grind against
+lh,"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 1",p02,,,,,l_,,,,"to, for",,,,לה,l_,preposition with pronominal suffix,"to, for"
+bx{{bl}}^lb^),"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 2",p02,noun sg. emphatic,,,,b_,"?bl, ?bl?",,,"in, with",destroyer,,,בחבללבא,xbl)#4,preposition with pronominal suffix | noun sg. emphatic,"in, with | destroyer"
+dcbt),"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 3",p,noun sg. emphatic,,,,dy,"?bh, ?bt?",,,"of, genitive particle",weed fiber,,,דצבתא,cbt),preposition | noun sg. emphatic,"of, genitive particle | weed fiber"
+dsryq),"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 4",c,A02,,,,dy,sryq,,,"who,which (relative)",empty,,,דסריקא,sryq,conjunction | adjective singular determined,"who,which (relative) | empty"
+lyh,"Masekhet: 71036, Page: 030, Side: 1, Line: 01, Word: 5",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+{{kwr)}},"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 0",noun sg. emphatic,,,,,"kwr, kwr?",,,,kor: a dry measure,,,,כורא,kwr),noun sg. emphatic,kor: a dry measure
+^byzr)^;,"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 1",N,,,,,"bzr, bzr?",,,,seed,,,,ביזרא;,byzr),noun,seed
+wqbrw,"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 2",c,verb G,,,,w_,qbr,,,to bury,to swell up (?),,,וקברו,qbr,conjunction | verb peal,to bury | to swell up (?)
+lh,"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 3",p02,,,,,l_,,,,"to, for",,,,לה,l_,preposition with pronominal suffix,"to, for"
+hyk),"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 4",a,,,,,"hyk?, hykn",,,,where,,,,היכא,hyk),adverb,where
+dmsyq,"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 5",verb C,,,,,slq,,,,"to make ascend, bring upward","to offer up, sacrifice",to complete,"to place over, upon",דמסיק,slq,verb (h)aphel,"to make ascend, bring upward | to offer up, sacrifice | to complete | to place over, upon"
+ym),"Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 6",noun sg. emphatic,,,,,"ym, ym?",,,,sea,,,,ימא,ym),noun sg. emphatic,sea
+"""$yrTwN"";","Masekhet: 71036, Page: 030, Side: 1, Line: 02, Word: 7",No data,,,,,,,,,,,,,שירטון;,None,No data,
+qwr),"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 0",noun sg. emphatic,,,,,"qwr, qwr?",,,,heart of the palm,,,,קורא,qwr),noun sg. emphatic,heart of the palm
+(bd),"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 1",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עבדא,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+pyry,"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 2",noun pl. emphatic,,,,,"pyr, pyr?",,,,fruit,,,,פירי,pyr),noun pl. emphatic,fruit
+l),"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 3",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+(bd);,"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 4",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עבדא;,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+wtlt,"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 5",c,n01,,,,w_,tlt,,,"and, also",three,,,ותלת,tlt),conjunction | numeral singular absolute or construct,"and, also | three"
+{bwrky}<byzrny>,"Masekhet: 71036, Page: 030, Side: 1, Line: 03, Word: 6",N,,,,,"bzr, bzr?",,,,seed,,,,ביזרני,byzr),noun,seed
+mynyyhw,"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 0",p,,,,,mn,,,,from,,,,מינייהו,mn,preposition,from
+l),"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 1",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+mxzq),"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 2",verb C,,,,,?zq,,,,"to contain, hold tightly","to presume, i.e. to impose a presumptive status",to start things moving,"to encourage [i.e., to say ""be strong"" : Hebrew]",מחזקא,xzq,verb (h)aphel,"to contain, hold tightly | to presume, i.e. to impose a presumptive status | to start things moving | to encourage [i.e., to say ""be strong"" : Hebrew]"
+lhw,"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 3",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+{{glym)}},"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 4",noun sg. emphatic,,,,,"glym, glym?",,,,"cloak, mantle",,,,גלימא,glym),noun sg. emphatic,"cloak, mantle"
+^gml)^;,"Masekhet: 71036, Page: 030, Side: 1, Line: 04, Word: 5",noun sg. emphatic,,,,,"gml, gml?",,,,camel; beam,,,,גמלא;,gml)#2,noun sg. emphatic,camel; beam
+m)y,"Masekhet: 71036, Page: 031, Side: 2, Line: 21, Word: 0",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+bynyhw;,"Masekhet: 71036, Page: 031, Side: 2, Line: 21, Word: 1",p02,,,,,"byn, byny",,,,"between, among",,,,ביניהו;,byn,preposition with pronominal suffix,"between, among"
+)yk',"Masekhet: 71036, Page: 031, Side: 2, Line: 22, Word: 0",a,,,,,?yk?,,,,there is here,,,,איכ',)yk),adverb,there is here
+?{{bynyh'}}?,"Masekhet: 71036, Page: 031, Side: 2, Line: 22, Word: 1",p02,,,,,"byn, byny",,,,"between, among",,,,ביניה',byn,preposition with pronominal suffix,"between, among"
+dkptyh,"Masekhet: 71036, Page: 031, Side: 2, Line: 22, Word: 2",c,verb G,,,,dy,kpt,,,"to bind, tie up","to bend back, retract",[e/a] (of fruit) to be fully formed,,דכפתיה,kpt,conjunction | verb peal,"to bind, tie up | to bend back, retract | [e/a] (of fruit) to be fully formed"
+b$yr)y;,"Masekhet: 71036, Page: 031, Side: 2, Line: 22, Word: 3",p02,noun pl. emphatic,,,,b_,"??r, ??r?",,,"in, with",bracelet,,,בשיראי;,$yr),preposition with pronominal suffix | noun pl. emphatic,"in, with | bracelet"
+)ynmy,"Masekhet: 71036, Page: 031, Side: 2, Line: 22, Word: 4",a,,,,,nmy,,,,also,,,,אינמי,nmy,adverb,also
+bhwc),"Masekhet: 71036, Page: 031, Side: 2, Line: 23, Word: 0",p02,noun sg. emphatic,,,,b_,"?w?, ?w??",,,"in, with",palm leaf,,,בהוצא,hwc),preposition with pronominal suffix | noun sg. emphatic,"in, with | palm leaf"
+ddhb);,"Masekhet: 71036, Page: 031, Side: 2, Line: 23, Word: 1",noun sg. emphatic,,,,,"dhb, dhb?",,,,gold,,,,דדהבא;,dhb),noun sg. emphatic,gold
+w)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 07, Word: 0",c,c,,,,w_,?y,,,"and, also","if, whether",,,ואי,)y,conjunction | conjunction,"and, also | if, whether"
+xd,"Masekhet: 71036, Page: 032, Side: 1, Line: 07, Word: 1",n01,,,,,?d,,,,one,,,,חד,xd,numeral singular absolute or construct,one
+^mynyyhw^,"Masekhet: 71036, Page: 032, Side: 1, Line: 07, Word: 2",p,,,,,mn,,,,from,,,,מינייהו,mn,preposition,from
+npy$,"Masekhet: 71036, Page: 032, Side: 1, Line: 07, Word: 3",A01,,,,,npy?,,,,substantial; refreshed,,,,נפיש,npy$,adjective singular absolute or construct,substantial; refreshed
+nktwb,"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 0",verb G,,,,,ktb,,,,to write,to draw,,,נכתוב,ktb,verb peal,to write | to draw
+trwyhw,"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 1",n02,,,,,tryn,,,,two,,,,תרויהו,try,numeral singular determined,two
+^b^hhw),"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 2",p02,P01,,,,b_,hhw?,,,"in, with",that one (m.),,,בההוא,hhw),preposition with pronominal suffix | preposition independent,"in, with | that one (m.)"
+dnpy$;,"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 3",c,A01,,,,dy,npy?,,,"who,which (relative)",substantial; refreshed,,,דנפיש;,npy$,conjunction | adjective singular absolute or construct,"who,which (relative) | substantial; refreshed"
+)l),"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 4",c,,,,,?l?,,,,but rather,,,,אלא,)l),conjunction,but rather
+m)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 5",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+T(';,"Masekhet: 71036, Page: 032, Side: 1, Line: 08, Word: 6",noun sg. emphatic,,,,,"??m, ??m?",,,,taste; order,,,,טע';,T(m),noun sg. emphatic,taste; order
+^m$wM^,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 0",c,,,,,m?wm,,,,"because, since",,,,משום,m$wm,conjunction,"because, since"
+dq)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 1",c,verb G,,,,dy,qwm,,,to rise,"to stand, to be raised up","to stand still, to stop",with various prepositions,דקאי,qwm,conjunction | verb peal,"to rise | to stand, to be raised up | to stand still, to stop | with various prepositions"
+lhydy);,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 2",A,,,,,l?wdy,,,,solitary,,,,להידיא;,lxwdy,adjective,solitary
+wl),"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 3",c,a,,,,w_,l?,,,"and, also","no, not",,,ולא,l),conjunction | adverb,"and, also | no, not"
+ksy,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 4",verb D,,,,,ksy,,,,to cover,to hide,,,כסי,ksy,verb pael,to cover | to hide
+lyh,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 5",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+mydy;,"Masekhet: 71036, Page: 032, Side: 1, Line: 10, Word: 6",R,,,,,"md?m, mdm, mydy",,,,something,,,,מידי;,mydy,R,something
+)mrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 1",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+myl),"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 2",noun sg. abs. or construct,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילא,mylt),noun sg. abs. or construct,"word, speech; thing"
+d),"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 3",P01,,,,,d?,,,,this (f.),,,,דא,d),preposition independent,this (f.)
+lyt,"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 4",V,,,,,"lyt, l)yty",,,,there is/are not,,,,לית,lyt,V,there is/are not
+lyh,"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 5",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+ptry;,"Masekhet: 71036, Page: 032, Side: 1, Line: 14, Word: 6",verb G,,,,,ptr,,,,"to interpret,explain",,,,פתרי;,ptr,verb peal,"to interpret,explain"
+sbry,"Masekhet: 71036, Page: 032, Side: 1, Line: 17, Word: 0",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סברי,sbr,verb peal,to have thoughts | idioms:
+dyl',"Masekhet: 71036, Page: 032, Side: 1, Line: 17, Word: 1",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+)ty,"Masekhet: 71036, Page: 032, Side: 1, Line: 17, Word: 2",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתי,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+l$ywly;,"Masekhet: 71036, Page: 032, Side: 1, Line: 17, Word: 3",p02,verb D,,,,l_,??l,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,לשיולי;,$)l,preposition with pronominal suffix | verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 18, Word: 0",c,,,,,?y,,,,"if, whether",,,,אי,)y,conjunction,"if, whether"
+hky,"Masekhet: 71036, Page: 032, Side: 1, Line: 18, Word: 1",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+"""$myM""","Masekhet: 71036, Page: 032, Side: 1, Line: 18, Word: 2",No data,,,,,,,,,,,,,שמים,None,No data,
+nmy,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 0",a,,,,,nmy,,,,also,,,,נמי,nmy,adverb,also
+l),"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 1",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+nymrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,נימרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 3",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+<dy>l',"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 4",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+)ty,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 5",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתי,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+l$ywly;,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 6",p02,verb D,,,,l_,??l,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,לשיולי;,$)l,preposition with pronominal suffix | verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+"""mh","Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 7",No data,,,,,,,,,,,,,מה,None,No data,
+lm(l',"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 8",No data,,,,,,,,,,,,,למעל',None,No data,
+wmh,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 9",No data,,,,,,,,,,,,,ומה,None,No data,
+lmT',"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 10",No data,,,,,,,,,,,,,למט',None,No data,
+mh,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 11",No data,,,,,,,,,,,,,מה,None,No data,
+lp',"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 12",No data,,,,,,,,,,,,,לפ',None,No data,
+mh,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 13",No data,,,,,,,,,,,,,מה,None,No data,
+<l>)xwr;","Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 14",No data,,,,,,,,,,,,,לאחור;,None,No data,
+m(yqr),"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 15",a,,,,,m?yqr?,,,,"originally, at first",,,,מעיקרא,m(yqr),adverb,"originally, at first"
+sbry,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 16",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סברי,sbr,verb peal,to have thoughts | idioms:
+)qr)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 19, Word: 17",a,,,,,?qr?y,,,,accidental,,,,אקראי,)qr)y,adverb,accidental
+b(lm),"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 0",N,,,,,"?lm, ?lm?",,,,eternity; world,,,,בעלמא,b(lm),noun,eternity; world
+hw),"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 1",P01,,,,,hw?,,,,he,,,,הוא,hw),preposition independent,he
+dq),"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 2",c,a,,,,dy,q?,,,"who,which (relative)",aspectual particle,,,דקא,q),conjunction | adverb,"who,which (relative) | aspectual particle"
+<m>$yyl;,"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 3",verb D,,,,,??l,,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,משייל;,$)l,verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+kywN,"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 4",c,,,,,kywn,,,,"when, since",,,,כיון,kywn,conjunction,"when, since"
+dxzw,"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 5",c,verb G,,,,dy,?zy,,,to see,(,") to understand, to realize",to visit,דחזו,xzy,conjunction | verb peal,"to see | ( | ) to understand, to realize | to visit"
+dhdr,"Masekhet: 71036, Page: 032, Side: 1, Line: 20, Word: 6",c,verb G,,,,dy,hdr,,,to return,as co-verb: to do something again,"to go around, surround",to get married,דהדר,hdr,conjunction | verb peal,"to return | as co-verb: to do something again | to go around, surround | to get married"
+m$yyl,"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 0",verb D,,,,,??l,,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,משייל,$)l,verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+sbry,"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 1",verb G,,,,,sbr,,,,to have thoughts,idioms:,,,סברי,sbr,verb peal,to have thoughts | idioms:
+l),"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 2",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+nym),"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,נימא,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh,"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 4",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+dyl',"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 5",c,,,,,dlmh,,,,"lest, perhaps",,,,דיל',dylm),conjunction,"lest, perhaps"
+)ty,"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 6",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתי,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+l$ywly;,"Masekhet: 71036, Page: 032, Side: 1, Line: 21, Word: 7",p02,verb D,,,,l_,??l,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,לשיולי;,$)l,preposition with pronominal suffix | verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 23, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 23, Word: 1",p02,,,,,l_,,,,"to, for",,,,להון;,l_,preposition with pronominal suffix,"to, for"
+)ydyN,"Masekhet: 71036, Page: 032, Side: 1, Line: 23, Word: 2",P,,,,,?ydyn,,,,which one,,,,אידין,)ydyn,P,which one
+mytqry,"Masekhet: 71036, Page: 032, Side: 1, Line: 23, Word: 3",verb Gt,,,,,qry,,,,to be called,to be read,(instrument) to make a musical sound,,מיתקרי,qry,verb ethpeel,to be called | to be read | (instrument) to make a musical sound
+"""xkM"";","Masekhet: 71036, Page: 032, Side: 1, Line: 23, Word: 4",No data,,,,,,,,,,,,,חכם;,None,No data,
+)ydyN,"Masekhet: 71036, Page: 032, Side: 1, Line: 24, Word: 0",P,,,,,?ydyn,,,,which one,,,,אידין,)ydyn,P,which one
+mytqry,"Masekhet: 71036, Page: 032, Side: 1, Line: 24, Word: 1",verb Gt,,,,,qry,,,,to be called,to be read,(instrument) to make a musical sound,,מיתקרי,qry,verb ethpeel,to be called | to be read | (instrument) to make a musical sound
+"""gybwr"";","Masekhet: 71036, Page: 032, Side: 1, Line: 24, Word: 2",No data,,,,,,,,,,,,,גיבור;,None,No data,
+)ydyN,"Masekhet: 71036, Page: 032, Side: 1, Line: 26, Word: 0",P,,,,,?ydyn,,,,which one,,,,אידין,)ydyn,P,which one
+mytqry,"Masekhet: 71036, Page: 032, Side: 1, Line: 26, Word: 1",verb Gt,,,,,qry,,,,to be called,to be read,(instrument) to make a musical sound,,מיתקרי,qry,verb ethpeel,to be called | to be read | (instrument) to make a musical sound
+"""($yr"";","Masekhet: 71036, Page: 032, Side: 1, Line: 26, Word: 2",No data,,,,,,,,,,,,,עשיר;,None,No data,
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 1",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+dydy,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 2",P02,,,,,dyd_,,,,possessive particle,,,,דידי,dyd_,preposition with pronominal suffix,possessive particle
+(dyp),"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 3",A01,,,,,?dyp,,,,"better, preferable",,,,עדיפא,(dyp,adjective singular absolute or construct,"better, preferable"
+mydydkw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 4",p02,,,,,dyd_,,,,possessive particle,,,,מידידכו;,mdyd_,preposition with pronominal suffix,possessive particle
+<y#10#>rxM,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 5",verb D,,,,,r?m,,,,w.,: to have mercy upon,to love,to show preference for,ירחם,rxm,verb pael,w. | : to have mercy upon | to love | to show preference for
+mlkwt,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 6",noun sg. abs. or construct,,,,,"mlkw, mlkwt?",,,,kingdom,,,,מלכות,mlkwt),noun sg. abs. or construct,kingdom
+w$lTN,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 7",c,noun sg. abs. or construct,,,,w_,"?wl?n, ?wl?n?",,,"and, also","power, rule",,,ושלטן,$wlTn),conjunction | noun sg. abs. or construct,"and, also | power, rule"
+wy(bd,"Masekhet: 71036, Page: 032, Side: 1, Line: 31, Word: 8",c,verb G,,,,w_,?bd,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,ויעבד,(bd,conjunction | verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+Tybw,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 0",noun sg. abs. or construct,,,,,"?ybw, ?ybwt?",,,,kindness; Grace,,,,טיבו,Tybwt),noun sg. abs. or construct,kindness; Grace
+(M,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 1",p01,,,,,?m,,,,with,,,,עם,(m,preposition independent,with
+bny )yn$);,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 2",noun pl. emphatic,,,,,"br ?n?/brn?, br ?n??/brn??",,,,"human, person",,,,בני אינשא;,br@)yn$,noun pl. emphatic,"human, person"
+?)'?,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 4",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+bym),"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 5",p02,noun sg. emphatic,,,,b_,"ym, ym?",,,"in, with",sea,,,בימא,ym),preposition with pronominal suffix | noun sg. emphatic,"in, with | sea"
+y)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 6",A01,,,,,y?y,,,,beautiful,,,,יאי,y)y,adjective singular absolute or construct,beautiful
+lmy?dr?,"Masekhet: 71036, Page: 032, Side: 1, Line: 32, Word: 7",p02,verb G,,,,l_,dwr,,,"to live, to dwell",(of inanimate) : to remain,,,למידר,dwr,preposition with pronominal suffix | verb peal,"to live, to dwell | (of inanimate) : to remain"
+)w,"Masekhet: 71036, Page: 032, Side: 1, Line: 33, Word: 0",c,,,,,?w,,,,or,,,,או,)w,conjunction,or
+byb$t);,"Masekhet: 71036, Page: 032, Side: 1, Line: 33, Word: 1",p02,noun sg. emphatic,,,,b_,"yby?h, yby?t?",,,"in, with",dry land,,,ביבשתא;,yby$t),preposition with pronominal suffix | noun sg. emphatic,"in, with | dry land"
+""")mrw","Masekhet: 71036, Page: 032, Side: 1, Line: 33, Word: 2",No data,,,,,,,,,,,,,אמרו,None,No data,
+lw";,"Masekhet: 71036, Page: 032, Side: 1, Line: 33, Word: 3",No data,,,,,,,,,,,,,לו;,None,No data,
+byb$t);,"Masekhet: 71036, Page: 032, Side: 1, Line: 33, Word: 4",p02,noun sg. emphatic,,,,b_,"yby?h, yby?t?",,,"in, with",dry land,,,ביבשתא;,yby$t),preposition with pronominal suffix | noun sg. emphatic,"in, with | dry land"
+"""td(""","Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 0",No data,,,,,,,,,,,,,תדע,None,No data,
+dh),"Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 1",c,I,,,,dy,h?,,,"who,which (relative)",here! look!,,,דהא,h),conjunction | interjection,"who,which (relative) | here! look!"
+kl,"Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 2",noun sg. abs. or construct,,,,,"kl, kl?",,,,"all, every",,,,כל,kl,noun sg. abs. or construct,"all, every"
+nxty ym),"Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 3",noun pl. construct,noun sg. emphatic,,,,"n?wt, n?wt?","ym, ym?",,,one who goes down,sea,,,נחתי ימא,ym,noun pl. construct | noun sg. emphatic,one who goes down | sea
+l),"Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 4",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+myytb),"Masekhet: 71036, Page: 032, Side: 1, Line: 34, Word: 5",verb D,,,,,ytb,,,,to make habitable,to ease something troubling or troubled,to make firm,,מייתבא,ytb,verb pael,to make habitable | to ease something troubling or troubled | to make firm
+d(tyyhw,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 0",noun sg. emphatic,,,,,"d?t, d?t?",,,,knowledge,,,,דעתייהו,d(t),noun sg. emphatic,knowledge
+(d,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 1",c,,,,,?d,,,,until,,,,עד,(d,conjunction,until
+dslqN,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 2",c,verb G,,,,dy,slq,,,to go up,to result,to travel,idioms:,דסלקן,slq,conjunction | verb peal,to go up | to result | to travel | idioms:
+lyby$t);,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 3",p03,noun sg. emphatic,,,,l_,"yby?h, yby?t?",,,"to, for",dry land,,,ליבישתא;,yby$t),preposition proclitic | noun sg. emphatic,"to, for | dry land"
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 4",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 5",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+)ydy,"Masekhet: 71036, Page: 032, Side: 1, Line: 35, Word: 6",P01,,,,,?ydy,,,,this one,,,,אידי,)ydy,preposition independent,this one
+mynyykw,"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 0",p02,,,,,mn,,,,from,,,,מינייכו,mn,preposition with pronominal suffix,from
+Tpy,"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 1",a,,,,,?py,,,,more,,,,טפי,Tpy,adverb,more
+x{m}<ky>M;,"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 2",A01,,,,,?kym,,,,wise,,,,חכים;,xkym,adjective singular absolute or construct,wise
+""")mrw","Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 3",No data,,,,,,,,,,,,,אמרו,None,No data,
+lw";,"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 4",No data,,,,,,,,,,,,,לו;,None,No data,
+kwln),"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 5",noun sg. emphatic,,,,,"kl, kl?",,,,"all, every",,,,כולנא,kl,noun sg. emphatic,"all, every"
+kxd),"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 6",X,,,,,k?dh,,,,together,,,,כחדא,kxd),X,together
+^$wwyn)^;,"Masekhet: 71036, Page: 032, Side: 1, Line: 36, Word: 7",A03,,,,,?wy,,,,"equal, worth",,,,שווינא;,$wy,adjective plural absolute,"equal, worth"
+^dh),"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 0",c,I,,,,dy,h?,,,"who,which (relative)",here! look!,,,דהא,h),conjunction | interjection,"who,which (relative) | here! look!"
+kl,"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 1",noun sg. abs. or construct,,,,,"kl, kl?",,,,"all, every",,,,כל,kl,noun sg. abs. or construct,"all, every"
+myl),"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 2",noun sg. abs. or construct,,,,,"mlh, mlt?",,,,"word, speech; thing",,,,מילא,mylt),noun sg. abs. or construct,"word, speech; thing"
+d)mrt,"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 3",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דאמרת,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+lN,"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 4",p02,,,,,l_,,,,"to, for",,,,לן,l_,preposition with pronominal suffix,"to, for"
+kxd)^,"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 5",X,,,,,k?dh,,,,together,,,,כחדא,kxd),X,together
+ptrn),"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 6",verb G,,,,,ptr,,,,"to interpret,explain",,,,פתרנא,ptr,verb peal,"to interpret,explain"
+lK;,"Masekhet: 71036, Page: 032, Side: 1, Line: 37, Word: 7",p02,,,,,l_,,,,"to, for",,,,לך;,l_,preposition with pronominal suffix,"to, for"
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 1",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+mh,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 2",c,,,,,"mh, mh d_, mdy",,,,what,,,,מה,mh,conjunction,what
+dyN,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 3",P,,,,,"dyn, dn",,,,this one,,,,דין,dyn,P,this one
+)ytrystwN,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 4",verb Gt,,,,,trs,,,,,,,,איתריסתון,trs,verb ethpeel,
+lqblN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 5",p,,,,,lwqbl,,,,opposite,,,,לקבלן;,lqwbl,preposition,opposite
+)mrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 6",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 38, Word: 7",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+$Tn),"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 0",noun sg. emphatic,,,,,"s?n, s?n?",,,,"Satan, devil; adversary",,,,שטנא,sTn),noun sg. emphatic,"Satan, devil; adversary"
+ncx;,"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 1",verb G,,,,,n??,,,,to shine,to flourish,to be victorious,,נצח;,ncx,verb peal,to shine | to flourish | to be victorious
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 3",p02,,,,,l_,,,,"to, for",,,,להון;,l_,preposition with pronominal suffix,"to, for"
+h),"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 4",I,,,,,h?,,,,here! look!,,,,הא,h),interjection,here! look!
+)n),"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 5",P01,,,,,?nh,,,,I,,,,אנא,)n),preposition independent,I
+qTyln),"Masekhet: 71036, Page: 032, Side: 1, Line: 39, Word: 6",verb G,,,,,q?l,,,,to kill,"to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc.",to fell,,קטילנא,qTl,verb peal,"to kill | to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc. | to fell"
+lkwN,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 0",p02,,,,,l_,,,,"to, for",,,,לכון,l_,preposition with pronominal suffix,"to, for"
+"""bgzyrt","Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 1",No data,,,,,,,,,,,,,בגזירת,None,No data,
+mlkyN";,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 2",No data,,,,,,,,,,,,,מלכין;,None,No data,
+)mrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 4",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+$wlTN,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 5",noun sg. emphatic,,,,,"?wl?n, ?wl?n?",,,,"power, rule",,,,שולטן,$wlTn),noun sg. emphatic,"power, rule"
+byd,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 6",p02,,,,,b_,,,,"in, with",,,,ביד,b_,preposition with pronominal suffix,"in, with"
+mlkw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 40, Word: 7",noun sg. abs. or construct,,,,,"mlkw, mlkwt?",,,,kingdom,,,,מלכו;,mlkwt),noun sg. abs. or construct,kingdom
+wl),"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 0",c,a,,,,w_,l?,,,"and, also","no, not",,,ולא,l),conjunction | adverb,"and, also | no, not"
+y)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 1",A01,,,,,y?y,,,,beautiful,,,,יאי,y)y,adjective singular absolute or construct,beautiful
+lmlkw,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 2",p02,noun sg. abs. or construct,,,,l_,"mlkw, mlkwt?",,,"to, for",kingdom,,,למלכו,mlkwt),preposition with pronominal suffix | noun sg. abs. or construct,"to, for | kingdom"
+kdb;,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 3",noun sg. abs. or construct,,,,,"kdb, kdb?",,,,lie,,,,כדב;,kydb),noun sg. abs. or construct,lie
+myd,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 4",X,,,,,"mn yd, myd",,,,immediately,,,,מיד,myd,X,immediately
+)lby$,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 5",verb C,,,,,lb?,,,,to clothe someone,,,,אלביש,lb$,verb (h)aphel,to clothe someone
+ythwN,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 6",p02,,,,,yt,,,,accusative particle,,,,יתהון,yt,preposition with pronominal suffix,accusative particle
+lbw$yN,"Masekhet: 71036, Page: 032, Side: 1, Line: 41, Word: 7",p03,noun pl. absolute,,,,l_,"lbw?, lbw??",,,"to, for",clothing,,,לבושין,lbw$),preposition proclitic | noun pl. absolute,"to, for | clothing"
+d)rgwwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 0",c,noun sg. abs. or construct,,,,dy,"?rgwn, ?rgwn?",,,"who,which (relative)",purple,,,דארגוון;,)rgwwn),conjunction | noun sg. abs. or construct,"who,which (relative) | purple"
+w$wy,"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 1",c,verb D,,,,w_,?wy,,,"to spread out a carpet or covering as a place for sitting, eating or sleeping (cf.",'bed'),"to place something down, install","to do well, prosper",ושוי,$wy,conjunction | verb pael,"to spread out a carpet or covering as a place for sitting, eating or sleeping (cf. | 'bed') | to place something down, install | to do well, prosper"
+mnyk),"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 2",noun sg. emphatic,,,,,"mnyk, mnyk?",,,,necklace,,,,מניכא,mnyk),noun sg. emphatic,necklace
+ddhb),"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 3",noun sg. emphatic,,,,,"dhb, dhb?",,,,gold,,,,דדהבא,dhb),noun sg. emphatic,gold
+(l,"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 4",p01,,,,,?l,,,,upon; against; to,,,,על,(l,preposition independent,upon; against; to
+cww)ryhwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 42, Word: 5",N,,,,,"?wr, ?wr?",,,,neck,,,,צוואריהון;,cw)r),noun,neck
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 1",p02,,,,,l_,,,,"to, for",,,,להון;,l_,preposition with pronominal suffix,"to, for"
+b(yn),"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 2",verb G,,,,,b?y,,,,"to seek, look for",to ask a question,"to wish for something, want, request",to require,בעינא,b(y,verb peal,"to seek, look for | to ask a question | to wish for something, want, request | to require"
+d)yzyl,"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 3",c,verb G,,,,dy,?zl,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",דאיזיל,)zl,conjunction | verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+lmdynt,"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 4",p02,noun sg. abs. or construct,,,,l_,"mdynh, mdynt?",,,"to, for",province; capital city,,,למדינת,mdynt),preposition with pronominal suffix | noun sg. abs. or construct,"to, for | province; capital city"
+)pryqy;,"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 5",No data,,,,,,,,,,,,,אפריקי;,None,No data,
+)mrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 43, Word: 6",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 0",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+l),"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 1",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+mcyt,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 2",A01,,,,,m?y,,,,"able, capable",,,,מצית,mcy,adjective singular absolute or construct,"able, capable"
+)zlt;,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 3",verb G,,,,,?zl,,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",אזלת;,)zl,verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+dpsqy,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 4",c,verb G,,,,dy,psq,,,to stop,to cut off,"to fix, determine, decree",to recite a verse or portion,דפסקי,psq,conjunction | verb peal,"to stop | to cut off | to fix, determine, decree | to recite a verse or portion"
+"""hry","Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 5",No data,,,,,,,,,,,,,הרי,None,No data,
+xw$K";,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 6",No data,,,,,,,,,,,,,חושך;,None,No data,
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 7",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhwN;,"Masekhet: 71036, Page: 032, Side: 1, Line: 44, Word: 8",p02,,,,,l_,,,,"to, for",,,,להון;,l_,preposition with pronominal suffix,"to, for"
+l),"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 0",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+sgy,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 1",A01,,,,,"sgy, ?gy?",,,,"many, much",,,,סגי,sgy,adjective singular absolute or construct,"many, much"
+dl),"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 2",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+)zyln);,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 3",verb G,,,,,?zl,,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",אזילנא;,)zl,verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+)Tw,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 4",p,,,,,??w,,,,on account of,,,,אטו,)Tw,preposition,on account of
+hky,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 5",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+m$yyln),"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 6",verb D,,,,,??l,,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,משיילנא,$)l,verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
++^d)mTwl,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 7",c,p01,,,,dy,?m?wl,,,"who,which (relative)","on account of, because of",,,דאמטול,)mTwl,conjunction | preposition independent,"who,which (relative) | on account of, because of"
+hky,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 8",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+q),"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 9",a,,,,,q?,,,,aspectual particle,,,,קא,q),adverb,aspectual particle
+m$yy)yln)^,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 10",verb D,,,,,??l,,,,to ask (repeatedly?),"to desire strongly, demand",to borrow repeatedly or in large amounts,,משייאילנא,$)l,verb pael,"to ask (repeatedly?) | to desire strongly, demand | to borrow repeatedly or in large amounts"
+lkw;,"Masekhet: 71036, Page: 032, Side: 1, Line: 45, Word: 11",p02,,,,,l_,,,,"to, for",,,,לכו;,l_,preposition with pronominal suffix,"to, for"
+)l),"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 0",c,,,,,?l?,,,,but rather,,,,אלא,)l),conjunction,but rather
+m)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 1",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+)(byd;,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 2",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,אעביד;,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+)mrw,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 4",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+)yyty,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 5",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,אייתי,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+xmry,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 6",noun pl. emphatic,,,,,"?mr, ?mr?",,,,ass,,,,חמרי,xmr)#2,noun pl. emphatic,ass
+lwby,"Masekhet: 71036, Page: 032, Side: 1, Line: 46, Word: 7",A05,,,,,lwby,,,,Lybian,,,,לובי,lwb)h,adjective plural determined,Lybian
+dpr$y,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 0",c,verb G,,,,dy,pr?,,,to separate,to be(come) separated,to depart,"to specify, distinguish, clarify",דפרשי,pr$,conjunction | verb peal,"to separate | to be(come) separated | to depart | to specify, distinguish, clarify"
+bhbr);,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 1",p02,N,,,,b_,"?br, ?br?",,,"in, with","darkness, dark pit",,,בהברא;,hbr),preposition with pronominal suffix | noun,"in, with | darkness, dark pit"
+w)yyty,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 2",c,verb C,,,,w_,?ty,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,ואייתי,)ty,conjunction | verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+qybwry,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 3",noun sg. emphatic,,,,,qbwr?,,,,coarse bread,,,,קיבורי,qybwr),noun sg. emphatic,coarse bread
+dmtny,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 4",c,noun pl. emphatic,,,,dy,"mytn, mytn?",,,"who,which (relative)",deceased person,,,דמתני,mytn),conjunction | noun pl. emphatic,"who,which (relative) | deceased person"
+wqTr,"Masekhet: 71036, Page: 032, Side: 1, Line: 47, Word: 5",c,verb G,,,,w_,q?r,,,"to bind, tie on, tie together","to frame, shape, construct",to bind with a magic spell,,וקטר,qTr,conjunction | verb peal,"to bind, tie on, tie together | to frame, shape, construct | to bind with a magic spell"
+bh)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 0",p02,P01,,,,b_,h?y,,,"in, with",this,,,בהאי,h)y,preposition with pronominal suffix | preposition independent,"in, with | this"
+gys);,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 1",noun sg. emphatic,,,,,gys?,,,,a demon,,,,גיסא;,gys)#3,noun sg. emphatic,a demon
+dky,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 2",c,c,,,,dy,ky,,,"who,which (relative)",when,,,דכי,ky,conjunction | conjunction,"who,which (relative) | when"
+)tyt,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 3",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתית,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+bgwwyhw,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 4",p02,,,,,bgw,,,,within,,,,בגוויהו,bgw,preposition with pronominal suffix,within
+^nqTt^,"Masekhet: 71036, Page: 032, Side: 1, Line: 48, Word: 5",verb G,,,,,nq?,,,,to hold,to seize,"to take, collect, gather",idiomatic expressions,נקטת,nqT,verb peal,"to hold | to seize | to take, collect, gather | idiomatic expressions"
+^bgwwyyhw^,"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 0",p02,,,,,bgw,,,,within,,,,בגווייהו,bgw,preposition with pronominal suffix,within
+{g}<w>)tyt;,"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 1",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,ואתית;,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+(bd,"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 2",verb G,,,,,?bd,,,,to make,"to do, perform, act in a certain manner","to designate, make into",idiomatic expressions:,עבד,(bd,verb peal,"to make | to do, perform, act in a certain manner | to designate, make into | idiomatic expressions:"
+hky,"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 3",X,,,,,"hkyn, ?kyn",,,,"so, thus",,,,הכי,hky,X,"so, thus"
+w)zl;,"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 4",c,verb G,,,,w_,?zl,,,"to go, move along",to go away,as co-verb : to go ahead and do something,"to be going on, to be happening (colloquial only?)",ואזל;,)zl,conjunction | verb peal,"to go, move along | to go away | as co-verb : to go ahead and do something | to be going on, to be happening (colloquial only?)"
+mT),"Masekhet: 71036, Page: 032, Side: 1, Line: 49, Word: 5",verb G,,,,,m?y,,,,"to come, to reach","to happen, occur","to be able, achieve",,מטא,mTy,verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+lhhw),"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 0",p03,P01,,,,l_,hhw?,,,"to, for",that one (m.),,,לההוא,hhw),preposition proclitic | preposition independent,"to, for | that one (m.)"
+mxwz),"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 1",noun sg. abs. or construct,,,,,"m?wz, m?wz?",,,,port; town,,,,מחוזא,mxwz),noun sg. abs. or construct,port; town
+dkwlh,"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 2",p,noun sg. emphatic,,,,dy,"kl, kl?",,,"of, genitive particle","all, every",,,דכולה,kl,preposition | noun sg. emphatic,"of, genitive particle | all, every"
+n$y;,"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 3",noun pl. emphatic,,,,,"?nth, ?ntt?",,,,"woman, wife",,,,נשי;,)ytt),noun pl. emphatic,"woman, wife"
+b(y,"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 4",verb G,,,,,b?y,,,,"to seek, look for",to ask a question,"to wish for something, want, request",to require,בעי,b(y,verb peal,"to seek, look for | to ask a question | to wish for something, want, request | to require"
+lmy(bd,"Masekhet: 71036, Page: 032, Side: 1, Line: 50, Word: 5",p02,verb G,,,,l_,b?y,,,"to seek, look for",to ask a question,"to wish for something, want, request",to require,למיעבד,b(y,preposition with pronominal suffix | verb peal,"to seek, look for | to ask a question | to wish for something, want, request | to require"
+qrb),"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 0",noun sg. emphatic,,,,,"qrb, qrb?",,,,"war, battle",,,,קרבא,qrb),noun sg. emphatic,"war, battle"
+bhdyhy;,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 1",p02,p02,,,,b_,bhdy,,,"in, with","with, while",,,בהדיהי;,bhdy,preposition with pronominal suffix | preposition with pronominal suffix,"in, with | with, while"
+)mry,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 3",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 4",c,,,,,?y,,,,"if, whether",,,,אי,)y,conjunction,"if, whether"
+qTlt,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 5",verb G,,,,,q?l,,,,to kill,"to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc.",to fell,,קטלת,qTl,verb peal,"to kill | to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc. | to fell"
+lN,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 6",p02,,,,,l_,,,,"to, for",,,,לן,l_,preposition with pronominal suffix,"to, for"
+)mry;,"Masekhet: 71036, Page: 032, Side: 1, Line: 51, Word: 7",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+n$y,"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 0",noun pl. emphatic,,,,,"?nth, ?ntt?",,,,"woman, wife",,,,נשי,)ytt),noun pl. emphatic,"woman, wife"
+qTl;,"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 1",verb G,,,,,q?l,,,,to kill,"to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc.",to fell,,קטל;,qTl,verb peal,"to kill | to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc. | to fell"
+)y,"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 2",c,,,,,?y,,,,"if, whether",,,,אי,)y,conjunction,"if, whether"
+qTyln),"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 3",verb G,,,,,q?l,,,,to kill,"to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc.",to fell,,קטילנא,qTl,verb peal,"to kill | to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc. | to fell"
+lK,"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 4",p02,,,,,l_,,,,"to, for",,,,לך,l_,preposition with pronominal suffix,"to, for"
+)mry;,"Masekhet: 71036, Page: 032, Side: 1, Line: 52, Word: 5",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרי;,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+dn$y,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 0",p,noun pl. emphatic,,,,dy,"?nth, ?ntt?",,,"of, genitive particle","woman, wife",,,דנשי,)ytt),preposition | noun pl. emphatic,"of, genitive particle | woman, wife"
+qTlwh;,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 1",verb G,,,,,q?l,,,,to kill,"to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc.",to fell,,קטלוה;,qTl,verb peal,"to kill | to make something not 'living' in its various metaph. senses, i.e., not raw, not flowing, etc. | to fell"
+)',"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 2",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhy;,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 3",p03,P,,,,l_,h?y,,,"to, for",this,,,להי;,h)y,preposition proclitic | P,"to, for | this"
+)yyty,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 4",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,אייתי,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+ly,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 5",p02,,,,,l_,,,,"to, for",,,,לי,l_,preposition with pronominal suffix,"to, for"
+n?h?m);,"Masekhet: 71036, Page: 032, Side: 1, Line: 53, Word: 6",noun sg. emphatic,,,,,"l?m, l?m?",,,,"bread, food",,,,נהמא;,nhm),noun sg. emphatic,"bread, food"
+)yytw,"Masekhet: 71036, Page: 032, Side: 1, Line: 54, Word: 0",verb C,,,,,?ty,,,,to bring,"to make something achieve, reach (without physical motion)",to endure,idioms,אייתו,)ty,verb (h)aphel,"to bring | to make something achieve, reach (without physical motion) | to endure | idioms"
+lyh,"Masekhet: 71036, Page: 032, Side: 1, Line: 54, Word: 1",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+ddhb),"Masekhet: 71036, Page: 032, Side: 1, Line: 54, Word: 2",noun sg. emphatic,,,,,"dhb, dhb?",,,,gold,,,,דדהבא,dhb),noun sg. emphatic,gold
+)ptw^r^),"Masekhet: 71036, Page: 032, Side: 1, Line: 54, Word: 3",noun sg. emphatic,,,,,"ptwr, ptwr?",,,,table,,,,אפתורא,ptwr),noun sg. emphatic,table
+dhb);,"Masekhet: 71036, Page: 032, Side: 1, Line: 54, Word: 4",noun sg. emphatic,,,,,"dhb, dhb?",,,,gold,,,,דהבא;,dhb),noun sg. emphatic,gold
+)',"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhy;,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 1",p03,P,,,,l_,h?y,,,"to, for",this,,,להי;,h)y,preposition proclitic | P,"to, for | this"
+m<y>,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 2",c,,,,,my,,,,interrogative particle,,,,מי,my,conjunction,interrogative particle
+)kly,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 3",verb G,,,,,?kl,,,,to eat,to consume,to enjoy the usufruct of something,in idioms,אכלי,)kl,verb peal,to eat | to consume | to enjoy the usufruct of something | in idioms
+)yn$y,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 4",noun pl. emphatic,,,,,"?n?, ?n??",,,,"person, someone",,,,אינשי,)yn$),noun pl. emphatic,"person, someone"
+nhm),"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 5",noun sg. emphatic,,,,,"l?m, l?m?",,,,"bread, food",,,,נהמא,nhm),noun sg. emphatic,"bread, food"
+ddhb);,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 6",noun sg. emphatic,,,,,"dhb, dhb?",,,,gold,,,,דדהבא;,dhb),noun sg. emphatic,gold
+)mrw,"Masekhet: 71036, Page: 032, Side: 2, Line: 01, Word: 7",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 0",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+)l),"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 1",c,,,,,?l?,,,,but rather,,,,אלא,)l),conjunction,but rather
+?l?),"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 2",a,,,,,l?,,,,"no, not",,,,לא,l),adverb,"no, not"
+^hwwt^,"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 3",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוות,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+lK,"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 4",p02,,,,,l_,,,,"to, for",,,,לך,l_,preposition with pronominal suffix,"to, for"
+nhm),"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 5",noun sg. emphatic,,,,,"l?m, l?m?",,,,"bread, food",,,,נהמא,nhm),noun sg. emphatic,"bread, food"
+b)trK,"Masekhet: 71036, Page: 032, Side: 2, Line: 02, Word: 6",p02,noun sg. emphatic,,,,b_,"?tr, ?tr?",,,"in, with",place,,,באתרך,)tr),preposition with pronominal suffix | noun sg. emphatic,"in, with | place"
+d$qlt,"Masekhet: 71036, Page: 032, Side: 2, Line: 03, Word: 0",c,verb G,,,,dy,?ql,,,to lift,"to take away, remove",to deal with,"to take, take as acceptable, accept",דשקלת,$ql,conjunction | verb peal,"to lift | to take away, remove | to deal with | to take, take as acceptable, accept"
+w)tyt,"Masekhet: 71036, Page: 032, Side: 2, Line: 03, Word: 1",c,verb G,,,,w_,?ty,,,to come,to occur; w.,: to befall,to be fitting,ואתית,)ty,conjunction | verb peal,to come | to occur; w. | : to befall | to be fitting
+lhk);,"Masekhet: 71036, Page: 032, Side: 2, Line: 03, Word: 2",p03,a,,,,l_,hkh,,,"to, for",here,,,להכא;,hk),preposition proclitic | adverb,"to, for | here"
+kd,"Masekhet: 71036, Page: 032, Side: 2, Line: 03, Word: 3",c,,,,,"kd, kdy",,,,when,,,,כד,kd,conjunction,when
+?n?pyq,"Masekhet: 71036, Page: 032, Side: 2, Line: 03, Word: 4",verb G,,,,,npq,,,,"to go out, come out, leave","to turn into, end up differently from how it started","to be spent, i.e. used up, consumed",": similar to, appropriate for",נפיק,npq,verb peal,"to go out, come out, leave | to turn into, end up differently from how it started | to be spent, i.e. used up, consumed | : similar to, appropriate for"
+w)ty,"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 0",c,verb G,,,,w_,?ty,,,to come,to occur; w.,: to befall,to be fitting,ואתי,)ty,conjunction | verb peal,to come | to occur; w. | : to befall | to be fitting
+ktb,"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 1",verb G,,,,,ktb,,,,to write,to draw,,,כתב,ktb,verb peal,to write | to draw
+)bb),"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 2",noun sg. emphatic,,,,,"bb, bb?",,,,gateway; opening; section,,,,אבבא,bb),noun sg. emphatic,gateway; opening; section
+dmxwz);,"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 3",p,noun sg. emphatic,,,,dy,"m?wz, m?wz?",,,"of, genitive particle",port; town,,,דמחוזא;,mxwz),preposition | noun sg. emphatic,"of, genitive particle | port; town"
+)n),"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 4",P01,,,,,?nh,,,,I,,,,אנא,)n),preposition independent,I
+)lksndrws,"Masekhet: 71036, Page: 032, Side: 2, Line: 04, Word: 5",No data,,,,,,,,,,,,,אלכסנדרוס,None,No data,
+hwyty,"Masekhet: 71036, Page: 032, Side: 2, Line: 05, Word: 0",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הויתי,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+$Ty);,"Masekhet: 71036, Page: 032, Side: 2, Line: 05, Word: 1",noun sg. emphatic,,,,,??y,,,,foolish,,,,שטיא;,$Ty),noun sg. emphatic,foolish
+(d,"Masekhet: 71036, Page: 032, Side: 2, Line: 05, Word: 2",c,,,,,?d,,,,until,,,,עד,(d,conjunction,until
+d)tyty,"Masekhet: 71036, Page: 032, Side: 2, Line: 05, Word: 3",c,verb G,,,,dy,?ty,,,to come,to occur; w.,: to befall,to be fitting,דאתיתי,)ty,conjunction | verb peal,to come | to occur; w. | : to befall | to be fitting
+lmdynt,"Masekhet: 71036, Page: 032, Side: 2, Line: 05, Word: 4",p02,noun sg. abs. or construct,,,,l_,"mdynh, mdynt?",,,"to, for",province; capital city,,,למדינת,mdynt),preposition with pronominal suffix | noun sg. abs. or construct,"to, for | province; capital city"
+)pryq<y>,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 0",No data,,,,,,,,,,,,,אפריקי,None,No data,
+dn$yy);,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 1",c,noun pl. emphatic,,,,dy,"?nth, ?ntt?",,,"who,which (relative)","woman, wife",,,דנשייא;,)ytt),conjunction | noun pl. emphatic,"who,which (relative) | woman, wife"
+wylypyt,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 2",c,V,,,,w_,"?lp, ylp",,,,,,,ויליפית,ylp,conjunction | V,
+"""(ch""","Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 3",No data,,,,,,,,,,,,,עצה,None,No data,
+mN,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 4",p01,,,,,mn,,,,from,,,,מן,mn,preposition independent,from
+n$yy);,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 5",noun pl. emphatic,,,,,"?nth, ?ntt?",,,,"woman, wife",,,,נשייא;,)ytt),noun pl. emphatic,"woman, wife"
+ky,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 6",p01,,,,,ky,,,,like,,,,כי,ky,preposition independent,like
+$qyl,"Masekhet: 71036, Page: 032, Side: 2, Line: 06, Word: 7",verb G,,,,,?ql,,,,to lift,"to take away, remove",to deal with,"to take, take as acceptable, accept",שקיל,$ql,verb peal,"to lift | to take away, remove | to deal with | to take, take as acceptable, accept"
+?w)?ty,"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 0",c,verb G,,,,w_,?ty,,,to come,to occur; w.,: to befall,to be fitting,ואתי,)ty,conjunction | verb peal,to come | to occur; w. | : to befall | to be fitting
+ytyb,"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 1",verb G,,,,,ytb,,,,to sit,to dwell,to settle down,to be inhabited,יתיב,ytb,verb peal,to sit | to dwell | to settle down | to be inhabited
+)hhw),"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 2",P,,,,,hhw?,,,,that one (m.),,,,אההוא,hhw),P,that one (m.)
+m(yyn);,"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 3",noun sg. emphatic,,,,,"m?yn, m?yn?",,,,fountain,,,,מעיינא;,m(yyn),noun sg. emphatic,fountain
+q),"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 4",a,,,,,q?,,,,aspectual particle,,,,קא,q),adverb,aspectual particle
+)kyl,"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 5",verb G,,,,,?kl,,,,to eat,to consume,to enjoy the usufruct of something,in idioms,אכיל,)kl,verb peal,to eat | to consume | to enjoy the usufruct of something | in idioms
+nhm);,"Masekhet: 71036, Page: 032, Side: 2, Line: 07, Word: 6",noun sg. emphatic,,,,,"l?m, l?m?",,,,"bread, food",,,,נהמא;,nhm),noun sg. emphatic,"bread, food"
+hww,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 0",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוו,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+bhdy,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 1",p01,,,,,bhdy,,,,"with, while",,,,בהדי,bhdy,preposition independent,"with, while"
+gyldny,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 2",noun pl. emphatic,,,,,"gldn, gldn?",,,,a small fish,,,,גילדני,gyldn),noun pl. emphatic,a small fish
+^dmlxy^;,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 4",c,verb G,,,,dy,ml?,,,to salt,to become salty,"to share someone's salt, i.e. dine together",to scatter (salt-like material),דמלחי;,mlx,conjunction | verb peal,"to salt | to become salty | to share someone's salt, i.e. dine together | to scatter (salt-like material)"
+bhdy{h},"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 5",p,,,,,bhdy,,,,"with, while",,,,בהדי,bhdy,preposition,"with, while"
+dmxwwry,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 6",verb D,,,,,?wr,,,,to whiten,"to wash, launder",to clarify,,דמחוורי,xwwr,verb pael,"to whiten | to wash, launder | to clarify"
+lhw,"Masekhet: 71036, Page: 032, Side: 2, Line: 08, Word: 7",p,,,,,l_,,,,"to, for",,,,להו,l_,preposition,"to, for"
+n?p?l,"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 0",verb G,,,,,npl,,,,to fall,"to befall, occur",:,:,נפל,npl,verb peal,"to fall | to befall, occur | : | :"
+bhw,"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 1",p02,,,,,b_,,,,"in, with",,,,בהו,b_,preposition with pronominal suffix,"in, with"
+r{w}<y>x);,"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 2",noun sg. emphatic,,,,,"ry?, ry??",,,,smell,,,,ריחא;,ryx),noun sg. emphatic,smell
+)';,"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 3",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א';,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+$m',"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 4",verb G,,,,,?m?,,,,to hear (w. d.o. or,) something,to listen,,שמ',$m(,verb peal,to hear (w. d.o. or | ) something | to listen
+my',"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 5",p02,,,,,mn,,,,from,,,,מי',mn,preposition with pronominal suffix,from
+h)y,"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 6",P01,,,,,h?y,,,,this,,,,האי,h)y,preposition independent,this
+m(yyn),"Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 7",noun sg. emphatic,,,,,"m?yn, m?yn?",,,,fountain,,,,מעיינא,m(yyn),noun sg. emphatic,fountain
+"""mgN","Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 8",No data,,,,,,,,,,,,,מגן,None,No data,
+(dN","Masekhet: 71036, Page: 032, Side: 2, Line: 09, Word: 9",No data,,,,,,,,,,,,,עדן,None,No data,
+q)ty;,"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 0",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,קאתי;,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+)yk',"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 1",a,,,,,?yk?,,,,there is here,,,,איכ',)yk),adverb,there is here
+d)';,"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 2",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא';,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+$q),"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 3",verb G,,,,,?ql,,,,to lift,"to take away, remove",to deal with,"to take, take as acceptable, accept",שקא,$qy#2,verb peal,"to lift | to take away, remove | to deal with | to take, take as acceptable, accept"
+mhnhw,"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 4",p,P02,,,,mn,"hnhw, hnhwn",,,from,those (m.),,,מהנהו,hnhw,preposition | preposition with pronominal suffix,from | those (m.)
+my);,"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 5",noun pl. emphatic,,,,,"myyn, my?",,,,water,,,,מיא;,my),noun pl. emphatic,water
+Tr),"Masekhet: 71036, Page: 032, Side: 2, Line: 10, Word: 6",verb G,,,,,?ry,,,,"to thrust at, push at",to throw,"to strike, smash against something","fig. : to impact, affect",טרא,Try,verb peal,"to thrust at, push at | to throw | to strike, smash against something | fig. : to impact, affect"
+b)?p?<y>h;,"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 0",p02,noun pl. emphatic,,,,b_,"?pyn, ?py?",,,"in, with",face; surface,,,באפיה;,)py,preposition with pronominal suffix | noun pl. emphatic,"in, with | face; surface"
+)yk',"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 1",a,,,,,?yk?,,,,there is here,,,,איכ',)yk),adverb,there is here
+d)';,"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 2",c,verb G,,,,dy,?mr,,,to say,to command,to think,idiomatic and special usages:,דא';,)mr,conjunction | verb peal,to say | to command | to think | idiomatic and special usages:
+)ydly,"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 3",verb Dt,,,,,dly,,,,to be drawn out,to be lifted up,,,אידלי,dly,verb ethpaal,to be drawn out | to be lifted up
+kwlyh,"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 4",noun sg. emphatic,,,,,"kl, kl?",,,,"all, every",,,,כוליה,kl,noun sg. emphatic,"all, every"
+(d,"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 5",c,,,,,?d,,,,until,,,,עד,(d,conjunction,until
+dmT),"Masekhet: 71036, Page: 032, Side: 2, Line: 11, Word: 6",c,verb G,,,,dy,m?y,,,"to come, to reach","to happen, occur","to be able, achieve",,דמטא,mTy,conjunction | verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+lptx);,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 0",p02,noun sg. emphatic,,,,l_,"pt?, pt??",,,"to, for",one who opens,,,לפתחא;,ptx),preposition with pronominal suffix | noun sg. emphatic,"to, for | one who opens"
+^ky,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 1",c,,,,,ky,,,,when,,,,כי,ky,conjunction,when
+mT),"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 2",verb G,,,,,m?y,,,,"to come, to reach","to happen, occur","to be able, achieve",,מטא,mTy,verb peal,"to come, to reach | to happen, occur | to be able, achieve"
+lptx),"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 3",p02,noun sg. emphatic,,,,l_,"pt?, pt??",,,"to, for",one who opens,,,לפתחא,ptx),preposition with pronominal suffix | noun sg. emphatic,"to, for | one who opens"
+"""dgN","Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 4",No data,,,,,,,,,,,,,דגן,None,No data,
+(dN"^,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 5",No data,,,,,,,,,,,,,עדן,None,No data,
+rm),"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 6",verb G,,,,,rmy,,,,to throw downward,to set something down,fig. (w.,) : to impose something (on someone),רמא,rmy,verb peal,to throw downward | to set something down | fig. (w. | ) : to impose something (on someone)
+ql);,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 7",noun sg. emphatic,,,,,"ql, ql?",,,,clod,,,,קלא;,ql)#2,noun sg. emphatic,clod
+ptxw,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 8",verb G,,,,,pt?,,,,to open,"fig.: to explain, solve",to begin (especially a speech or text),to issue a summons,פתחו,ptx,verb peal,"to open | fig.: to explain, solve | to begin (especially a speech or text) | to issue a summons"
+ly,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 9",p02,,,,,l_,,,,"to, for",,,,לי,l_,preposition with pronominal suffix,"to, for"
+bb);,"Masekhet: 71036, Page: 032, Side: 2, Line: 12, Word: 10",noun sg. emphatic,,,,,"bb, bb?",,,,gateway; opening; section,,,,בבא;,bb),noun sg. emphatic,gateway; opening; section
+)',"Masekhet: 71036, Page: 032, Side: 2, Line: 13, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 2, Line: 13, Word: 1",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+)n),"Masekhet: 71036, Page: 032, Side: 2, Line: 13, Word: 2",P01,,,,,?nh,,,,I,,,,אנא,)n),preposition independent,I
+mlk?)?,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 0",noun sg. emphatic,,,,,"mlk, mlk?",,,,king,,,,מלכא,mlk),noun sg. emphatic,king
+)n);,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 1",P01,,,,,?nh,,,,I,,,,אנא;,)n),preposition independent,I
+myx$b,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 2",verb G,,,,,??b,,,,"to think a thought about, take into account",to regard as after due thought,to calculate,,מיחשב,x$b,verb peal,"to think a thought about, take into account | to regard as after due thought | to calculate"
+x$ybn);,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 3",A01,,,,,??yb,,,,important,,,,חשיבנא;,x$yb,adjective singular absolute or construct,important
+hbw,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 4",verb G,,,,,yhb,,,,to give,to place,"to permit, allow","as coverb: to be on the point of doing something, give oneself over to",הבו,yhb,verb peal,"to give | to place | to permit, allow | as coverb: to be on the point of doing something, give oneself over to"
+ly,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 5",p02,,,,,l_,,,,"to, for",,,,לי,l_,preposition with pronominal suffix,"to, for"
+mydy;,"Masekhet: 71036, Page: 032, Side: 2, Line: 14, Word: 6",R,,,,,"md?m, mdm, mydy",,,,something,,,,מידי;,mydy,R,something
+yhbw,"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 0",verb G,,,,,yhb,,,,to give,to place,"to permit, allow","as coverb: to be on the point of doing something, give oneself over to",יהבו,yhb,verb peal,"to give | to place | to permit, allow | as coverb: to be on the point of doing something, give oneself over to"
+l?y?h,"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 1",p,,,,,l_,,,,"to, for",,,,ליה,l_,preposition,"to, for"
+gwlglt),"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 2",noun sg. emphatic,,,,,"gwlglh, gwlglt?",,,,skull,,,,גולגלתא,gwlglt),noun sg. emphatic,skull
+xd?h?;,"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 3",n01,,,,,?d,,,,one,,,,חדה;,xd,numeral singular absolute or construct,one
+)t),"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 4",verb G,,,,,?ty,,,,to come,to occur; w.,: to befall,to be fitting,אתא,)ty,verb peal,to come | to occur; w. | : to befall | to be fitting
+tqlyh,"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 5",verb G,,,,,tql,,,,"to hang, to weigh something",to estimate,to balance,to weigh (intrans.),תקליה,tql,verb peal,"to hang, to weigh something | to estimate | to balance | to weigh (intrans.)"
+lkwlyh,"Masekhet: 71036, Page: 032, Side: 2, Line: 15, Word: 6",p03,noun sg. emphatic,,,,l_,"kl, kl?",,,"to, for","all, every",,,לכוליה,kl,preposition proclitic | noun sg. emphatic,"to, for | all, every"
+ksp),"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 0",noun sg. emphatic,,,,,"ksp, ksp?",,,,"silver, money",,,,כספא,ksp),noun sg. emphatic,"silver, money"
+wdhb),"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 1",c,noun sg. emphatic,,,,w_,"dhb, dhb?",,,"and, also",gold,,,ודהבא,dhb),conjunction | noun sg. emphatic,"and, also | gold"
+dylyh,"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 2",P,,,,,dyl_,,,,(with pronominal suffixes:) independent possessive pronoun,,,,דיליה,dyl_,P,(with pronominal suffixes:) independent possessive pronoun
+bhdyh,"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 3",p02,,,,,bhdy,,,,"with, while",,,,בהדיה,bhdy,preposition with pronominal suffix,"with, while"
+wl),"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 4",c,a,,,,w_,l?,,,"and, also","no, not",,,ולא,l),conjunction | adverb,"and, also | no, not"
+hwh,"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 5",verb G,,,,,hwy,,,,to be,"to endure, to exist","to come to pass, to happen",in idioms:,הוה,hwy,verb peal,"to be | to endure, to exist | to come to pass, to happen | in idioms:"
+tqyl;,"Masekhet: 71036, Page: 032, Side: 2, Line: 16, Word: 6",verb G,,,,,tql,,,,"to hang, to weigh something",to estimate,to balance,to weigh (intrans.),תקיל;,tql,verb peal,"to hang, to weigh something | to estimate | to balance | to weigh (intrans.)"
+)',"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 0",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 1",p02,,,,,l_,,,,"to, for",,,,להו,l_,preposition with pronominal suffix,"to, for"
+lrbnN;,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 2",p03,N,,,,l_,"rbn, rbn?",,,"to, for","lord, master",,,לרבנן;,rbnn,preposition proclitic | noun,"to, for | lord, master"
+m)y,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 3",P01,,,,,m?y,,,,what,,,,מאי,m)y,preposition independent,what
+h)y;,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 4",P01,,,,,h?y,,,,this,,,,האי;,h)y,preposition independent,this
+)mrw,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 5",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,אמרו,)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lyh;,"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 6",p02,,,,,l_,,,,"to, for",,,,ליה;,l_,preposition with pronominal suffix,"to, for"
+gwlgl),"Masekhet: 71036, Page: 032, Side: 2, Line: 17, Word: 7",noun sg. emphatic,,,,,"glgl, glgl?",,,,wheel,,,,גולגלא,glgl),noun sg. emphatic,wheel
+db$r?)?,"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 0",c,noun sg. emphatic,,,,dy,"bsr, bsr?",,,"who,which (relative)",flesh,,,דבשרא,by&r),conjunction | noun sg. emphatic,"who,which (relative) | flesh"
+wdm),"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 1",c,noun sg. emphatic,,,,w_,"dm, dm?",,,"and, also",blood,,,ודמא,dm),conjunction | noun sg. emphatic,"and, also | blood"
+hw),"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 2",P01,,,,,hw?,,,,he,,,,הוא,hw),preposition independent,he
+dl),"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 3",c,a,,,,dy,l?,,,"who,which (relative)","no, not",,,דלא,l),conjunction | adverb,"who,which (relative) | no, not"
+q),"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 4",a,,,,,q?,,,,aspectual particle,,,,קא,q),adverb,aspectual particle
+$b(;,"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 5",n01,,,,,?b?,,,,seven,,,,שבע;,$b(),numeral singular absolute or construct,seven
+)',"Masekhet: 71036, Page: 032, Side: 2, Line: 18, Word: 6",verb G,,,,,?mr,,,,to say,to command,to think,idiomatic and special usages:,א',)mr,verb peal,to say | to command | to think | idiomatic and special usages:
+lhw;,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 0",p,,,,,l_,,,,"to, for",,,,להו;,l_,preposition,"to, for"
+mm)y,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 1",P01,,,,,m?y,,,,what,,,,ממאי,m)y,preposition independent,what
+d?hk?y,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 2",c,X,,,,dy,"hkyn, ?kyn",,,"who,which (relative)","so, thus",,,דהכי,hky,conjunction | X,"who,which (relative) | so, thus"
+hw);,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 3",P01,,,,,hw?,,,,he,,,,הוא;,hw),preposition independent,he
+$qly,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 4",verb G,,,,,?ql,,,,to lift,"to take away, remove",to deal with,"to take, take as acceptable, accept",שקלי,$ql,verb peal,"to lift | to take away, remove | to deal with | to take, take as acceptable, accept"
+qlyl,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 5",A01,,,,,qlyl,,,,light; quick; few,,,,קליל,qlyl,adjective singular absolute or construct,light; quick; few
+(pr),"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 6",noun sg. emphatic,,,,,"?pr, ?pr?",,,,dust,,,,עפרא,(pr),noun sg. emphatic,dust
+)ltr,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 7",a,,,,,?ltr,,,,immediately,,,,אלתר,)ltr,adverb,immediately
+tql;,"Masekhet: 71036, Page: 032, Side: 2, Line: 19, Word: 8",verb G,,,,,tql,,,,"to hang, to weigh something",to estimate,to balance,to weigh (intrans.),תקל;,tql,verb peal,"to hang, to weigh something | to estimate | to balance | to weigh (intrans.)"

@@ -1,0 +1,13 @@
+=== Confusion Matrix ===
+[[15819  1546]
+ [ 1342 16022]]
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+       bavli       0.92      0.91      0.92     17365
+  yerushalmi       0.91      0.92      0.92     17364
+
+    accuracy                           0.92     34729
+   macro avg       0.92      0.92      0.92     34729
+weighted avg       0.92      0.92      0.92     34729
