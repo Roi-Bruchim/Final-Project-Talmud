@@ -14,6 +14,11 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils.data import DataLoader, Dataset
 
+# --- plotting (headless-safe) ---
+import matplotlib
+matplotlib.use("Agg")  # רינדור ללא מסך
+import matplotlib.pyplot as plt
+
 # ===== ייבוא מהקובץ שלך =====
 from structure_cnn_torch_min import (
     KimCNN, Vocab, build_sequences, set_seed, get_device,
@@ -72,12 +77,10 @@ def top_ngrams_for_filters_lex_with_channels(
         k = conv.kernel_size[0]
         feat = F.relu(conv(x))             # [N, C, T-k+1]
         N, C, L = feat.shape
-        # מקסימום לאורך הזמן לכל ערוץ
         vals, idxs = torch.max(feat, dim=2)  # [N, C]
-        # נעבור ערוץ-ערוץ כדי לקחת את הטופ לפי ערוץ (כדי לשייך ל-channel)
         for cidx in range(C):
-            vcol = vals[:, cidx]                 # [N]
-            ic  = idxs[:, cidx]                  # [N]
+            vcol = vals[:, cidx]
+            ic  = idxs[:, cidx]
             tk = min(top_k, vcol.numel())
             topv, topi = torch.topk(vcol, k=tk)
             for v, bi in zip(topv.tolist(), topi.tolist()):
@@ -87,19 +90,15 @@ def top_ngrams_for_filters_lex_with_channels(
                 ngram = " ".join([lv.itos[t] if t < len(lv.itos) else "<unk>" for t in toks])
                 per_filter_chan[(fi, k, cidx)].append((v, ngram, int(bi), int(start)))
 
-    # מיין פנימית
     out = {}
     for key, lst in per_filter_chan.items():
         lst.sort(key=lambda x: -x[0])
         out[key] = lst[:top_k]
     return out
 
-# ---------- Saliency לדוגמה (lex + “ענף lemma דמה” במקרה הצורך) ----------
+# ---------- Saliency לדוגמה ----------
 def token_saliency_lex(model: KimCNN, lv: Vocab, lex_ids: torch.Tensor,
                        device="cpu", target_class=None):
-    """
-    אם המודל אומן עם use_lemma=True, נוסיף ענף lemma מאופס כדי לשמור על ממד זהה. נגזור גרדיאנט רק על lex.
-    """
     model.eval()
     lex_ids = lex_ids.to(device).unsqueeze(0)      # [1, T]
     lex_ids.requires_grad_(False)
@@ -146,68 +145,135 @@ def token_saliency_lex(model: KimCNN, lv: Vocab, lex_ids: torch.Tensor,
     tokens = [lv.itos[t] if t < len(lv.itos) else "<unk>" for t in toks]
     return tokens, sal.cpu().numpy().tolist(), target_class
 
-# ---------- Probe: תרומת כל פיצ'ר (פילטר/ערוץ) לכל מחלקה ----------
+# ---------- Probe: תרומת כל פיצ'ר ----------
 @torch.no_grad()
 def feature_class_contrib(model: KimCNN) -> Dict[int, List[Tuple[int,float]]]:
-    """
-    עבור כל ממד בכניסת fc1 (כלומר כל ערוץ של כל פילטר לאחר ה-pooling),
-    נבנה וקטור יחידה ונעביר דרך fc1->relu->dropout->fc2->relu->dropout->out.
-    נחזיר, לכל מחלקה, את רשימת (feature_index, logit) ממוינת מירידה (תרומה חזקה).
-    הערה: זה קירוב נוח להסבר (יש ReLU ו-nonlinearity).
-    """
     model.eval()
     in_dim = model.fc1.in_features
     num_classes = model.out.out_features
     contrib = {c: [] for c in range(num_classes)}
 
-    # נכבה דרופאאוט לגמרי (eval כבר דואג, אבל ליתר ביטחון)
     def forward_with_feat(feat_vec):
         h = F.relu(model.fc1(feat_vec))
-        h = model.drop(h)  # אין השפעה ב-eval
+        h = model.drop(h)
         h = F.relu(model.fc2(h))
         h = model.drop(h)
         logits = model.out(h)
         return logits
 
     device = next(model.parameters()).device
-    eye = torch.eye(in_dim, device=device)  # [in_dim, in_dim]
-    # נריץ בקבוצות כדי לא לצרוך זיכרון עצום
+    eye = torch.eye(in_dim, device=device)
     BS = 1024
     for s in range(0, in_dim, BS):
         e = min(in_dim, s+BS)
-        block = eye[s:e]                # [B, in_dim]
+        block = eye[s:e]
         logits = forward_with_feat(block)
-        for i, logit in enumerate(logits):  # לכל פיצ'ר
+        for i, logit in enumerate(logits):
             for c in range(num_classes):
                 contrib[c].append((s+i, float(logit[c].item())))
-    # מיין לכל מחלקה
     for c in range(num_classes):
         contrib[c].sort(key=lambda x: -x[1])
-    return contrib  # מפה: class_id -> [(feature_index, score), ...]
+    return contrib
 
 # ---------- מיפוי ממד->(סוג/פילטר/קנאל) ----------
 def build_feature_index_map(model: KimCNN) -> List[Tuple[str,int,int,int]]:
-    """
-    מחזיר רשימה באורך in_dim של tuples:
-    ("lex"/"lemma", conv_index, kernel_size, channel_idx)
-    סדר: קודם כל convs_lex (לפי הסדר, כל אחד עם C ערוצים),
-          אח"כ convs_lem (שני קונבולושים, כל אחד עם C//2 ערוצים).
-    """
     mapping = []
-    # lex
     C = model.convs_lex[0].out_channels
     for fi, conv in enumerate(model.convs_lex):
         k = conv.kernel_size[0]
         for cidx in range(C):
             mapping.append(("lex", fi, k, cidx))
-    # lemma (אם קיים)
     if getattr(model, "use_lemma", False):
-        C2 = model.convs_lem[0].out_channels  # זה C//2
+        C2 = model.convs_lem[0].out_channels
         for fi, conv in enumerate(model.convs_lem):
             k = conv.kernel_size[0]
             for cidx in range(C2):
                 mapping.append(("lemma", fi, k, cidx))
-    return mapping  # len == fc1.in_features
+    return mapping
+
+# ---------- גרפים ----------
+def make_plots(
+    top_map_chan: Dict[Tuple[int,int,int], List[Tuple[float,str,int,int]]],
+    contrib_by_class: Dict[int, List[Tuple[int,float]]],
+    feat_map: List[Tuple[str,int,int,int]],
+    saliency_pairs: List[Tuple[str, float]],
+    class_names: List[str],
+    out_dir: str
+):
+    os.makedirs(out_dir, exist_ok=True)
+
+    # Fig 1: ממוצע logit לפי kernel size ולפי מחלקה
+    agg = {}
+    for cid in range(len(class_names)):
+        for fidx, score in contrib_by_class[cid]:
+            block, fi, k, cidx = feat_map[fidx]
+            if block != "lex":
+                continue
+            agg.setdefault((k, cid), []).append(score)
+
+    ks = sorted({k for (k, _) in agg.keys()})
+    means_by_class = {cid: [np.mean(agg.get((k, cid), [0.0])) for k in ks] for cid in range(len(class_names))}
+
+    plt.figure()
+    x = np.arange(len(ks))
+    width = 0.35
+    for cid in range(len(class_names)):
+        plt.bar(x + (cid - (len(class_names)-1)/2)*width, means_by_class[cid], width, label=class_names[cid])
+    plt.xticks(x, [str(k) for k in ks])
+    plt.xlabel("Kernel size (k)")
+    plt.ylabel("Mean logit (top features)")
+    plt.title("Top-filter contribution by kernel size and class")
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(os.path.join(out_dir, "fig1_kernel_contrib.png"), dpi=160)
+    plt.close()
+
+    # Fig 2: היסטוגרמה של top-50 לוגיטים לכל מחלקה
+    for cid in range(len(class_names)):
+        top50 = contrib_by_class[cid][:50]
+        scores = [s for _, s in top50]
+        plt.figure()
+        plt.hist(scores, bins=15)
+        plt.xlabel("Logit score")
+        plt.ylabel("Count")
+        plt.title(f"Distribution of top-50 feature logits — class: {class_names[cid]}")
+        plt.tight_layout()
+        plt.savefig(os.path.join(out_dir, f"fig2_top50_logit_hist_class_{class_names[cid]}.png"), dpi=160)
+        plt.close()
+
+    # Fig 3: Saliency — top-20
+    if saliency_pairs:
+        toks, vals = zip(*saliency_pairs[:20])
+        plt.figure(figsize=(10, 6))
+        y = np.arange(len(toks))[::-1]
+        plt.barh(y, vals)
+        plt.yticks(y, toks)
+        plt.xlabel("Saliency")
+        plt.title("Top-20 token saliency (example)")
+        plt.tight_layout()
+        plt.savefig(os.path.join(out_dir, "fig3_top20_saliency.png"), dpi=160)
+        plt.close()
+
+    # Fig 4: טופ-15 פילטרים תורמים לכל מחלקה
+    for cid in range(len(class_names)):
+        top15 = contrib_by_class[cid][:15]
+        labels = []
+        scores = []
+        for fidx, score in top15:
+            block, fi, k, cidx = feat_map[fidx]
+            if block != "lex":
+                continue
+            labels.append(f"conv{fi}|k{k}|ch{cidx}")
+            scores.append(score)
+        plt.figure(figsize=(10, 6))
+        y = np.arange(len(labels))[::-1]
+        plt.barh(y, scores)
+        plt.yticks(y, labels)
+        plt.xlabel("Logit score")
+        plt.title(f"Top-15 filter contributions — class: {class_names[cid]}")
+        plt.tight_layout()
+        plt.savefig(os.path.join(out_dir, f"fig4_top15_filters_class_{class_names[cid]}.png"), dpi=160)
+        plt.close()
 
 # ---------- MAIN ----------
 def main(args):
@@ -287,13 +353,12 @@ def main(args):
     sub = "-"*72
 
     print("\n" + sep)
-    print("דוח ניתוח פילטרים – קריא למרצה")
+    print("דוח ניתוח פילטרים ")
     print(sep)
 
     # A) Top n-grams לכל פילטר (מקובץ לפי k)
     print("\nA) Top n-grams לכל פילטר (lex):")
     print(sub)
-    # נקבץ לפי (fi,k) ונציג את ה-top הראשון מכל channel (כדי לא להציף)
     grouped = defaultdict(list)
     for (fi, k, cidx), lst in top_map_chan.items():
         if len(lst) > 0:
@@ -309,23 +374,21 @@ def main(args):
     # B) תרומת פילטרים לפי מחלקה
     print("\nB) תרומת פילטרים לפי מחלקה (Probe על כניסת fc1):")
     print(sub)
-    class_names = ["bavli", "yerushalmi"]  # לפי מודל שני-מחלקות שלך
+    class_names = ["bavli", "yerushalmi"]
     for cid, cname in enumerate(class_names):
         print(f"\n>> מחלקה: {cname}")
-        # ניקח top M פיצ'רים
         top_feats = contrib_by_class[cid][:args.top_feat_contrib]
         for rank, (fidx, score) in enumerate(top_feats, 1):
             block, fi, k, cidx = feat_map[fidx]
-            # מצא n-gram מייצג אם זה lex
             rep = ""
             if block == "lex":
                 key = (fi, k, cidx)
                 if key in top_map_chan and len(top_map_chan[key]) > 0:
-                    rep = top_map_chan[key][0][1]  # ngram
+                    rep = top_map_chan[key][0][1]
             print(f"  {rank:>2}. [{block}] conv#{fi} k={k} chan={cidx:<3d} | logit≈{score:>7.4f}"
                   + (f" | ngram=<{rep}>" if rep else ""))
 
-    # C) Saliency לדוגמה
+    # C) Saliency – דוגמה בודדת
     print("\nC) תרומת טוקנים (Saliency) – דוגמה בודדת:")
     print(sub)
     example_idx = min(args.example_index, all_lex_ids.size(0)-1)
@@ -342,7 +405,6 @@ def main(args):
     # D) ייצוא אופציונלי ל-CSV
     if args.export_csv:
         os.makedirs(args.export_dir, exist_ok=True)
-        # top-ngrams (עם channel)
         rows = []
         for (fi, k, cidx), lst in top_map_chan.items():
             for rank, (score, ngram, exi, start) in enumerate(lst, 1):
@@ -351,7 +413,6 @@ def main(args):
                              "example_index": exi, "start": start})
         pd.DataFrame(rows).to_csv(os.path.join(args.export_dir, "top_ngrams_lex_by_channel.csv"), index=False)
 
-        # feature contributions
         rows = []
         for cid, cname in enumerate(class_names):
             for rank, (fidx, score) in enumerate(contrib_by_class[cid], 1):
@@ -361,11 +422,22 @@ def main(args):
                              "channel": cidx, "logit_score": score})
         pd.DataFrame(rows).to_csv(os.path.join(args.export_dir, "feature_class_contrib.csv"), index=False)
 
-        # saliency לדוגמה
         pd.DataFrame({"token": [t for t,_ in pairs], "saliency": [float(x) for _,x in pairs]}).to_csv(
             os.path.join(args.export_dir, f"saliency_example_{example_idx}.csv"), index=False)
 
         print(f"\n[EXPORTED] קבצי CSV נשמרו תחת {args.export_dir}")
+
+    # E) גרפים — אוטומטי (אלא אם צוין no_plots)
+    if not args.no_plots:
+        make_plots(
+            top_map_chan=top_map_chan,
+            contrib_by_class=contrib_by_class,
+            feat_map=feat_map,
+            saliency_pairs=pairs[:args.top_saliency],
+            class_names=class_names,
+            out_dir=args.plots_dir
+        )
+        print(f"[PLOTS] Figures saved under: {args.plots_dir}")
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
@@ -398,6 +470,10 @@ if __name__ == "__main__":
 
     ap.add_argument("--export_csv", action="store_true")
     ap.add_argument("--export_dir", type=str, default="analysis_exports")
+
+    # גרפים: אוטומטי, אפשר לבטל בדגל
+    ap.add_argument("--no_plots", action="store_true", help="disable automatic plot generation")
+    ap.add_argument("--plots_dir", type=str, default="analysis_plots", help="directory to save plots")
 
     args = ap.parse_args()
     main(args)
