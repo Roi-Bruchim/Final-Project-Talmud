@@ -1,0 +1,482 @@
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/word_struct_linearsvc.py
+c:\Users\roibr\PycharmProjects\Final_Project_Text_Research\word_struct_linearsvc.py:90: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  df = df.groupby("label", group_keys=False).apply(lambda x: x.sample(minc, random_state=seed)).reset_index(drop=True)
+=== Confusion Matrix ===
+[[15819  1546]
+ [ 1342 16022]]
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+       bavli       0.92      0.91      0.92     17365
+  yerushalmi       0.91      0.92      0.92     17364
+
+    accuracy                           0.92     34729
+   macro avg       0.92      0.92      0.92     34729
+weighted avg       0.92      0.92      0.92     34729
+
+
+Top 40 features for class 'yerushalmi' (positive weights):
+sition_proclitic, char_3_5__ורה, char_3_5__נון, char_3_5__לון, struct_uni_bi__verb_peal conjunction, char_3_5__תון, struct_uni_bi__r preposition_proclitic, struct_uni_bi__preposition_independent_(h)aphel, char_3_5__על , struct_uni_bi__noun_sg._emphatic preposition, struct_uni_bi__preposition_with_pronominal_suffix_(h)aphel, struct_uni_bi__noun preposition_proclitic, struct_uni_bi__geographical_name_geographic_name, struct_uni_bi__noun_pl._emphatic conjunction, struct_uni_bi__verb_peal preposition_with_pronominal_suffix, char_3_5__קון, char_3_5__רין, struct_uni_bi__noun_sg._abs._or_construct preposition_with_pronominal_suffix, struct_uni_bi__noun_pl._construct preposition_proclitic, struct_uni_bi__verb_pael conjunction, struct_uni_bi__noun_pl._emphatic preposition_proclitic, struct_uni_bi__verb_(h)aphel conjunction, char_3_5__פון, char_3_5__לקה, struct_uni_bi__noun_sg._emphatic conjunction, char_3_5__קין, struct_uni_bi__v conjunction, char_3_5__גוס, word_uni_bi__דו, char_3_5__מהש, struct_uni_bi__noun_sg._abs._or_construct preposition, struct_uni_bi__noun preposition_with_pronominal_suffix, word_uni_bi__יתן
+
+Top 40 features for class 'bavli' (negative weights):
+char_3_5__יה;, char_3_5__תא;, char_3_5__ין;, char_3_5__רא;, char_3_5__יא;, struct_uni_bi__p, char_3_5__רי;, char_3_5__ני;, char_3_5__ון;, char_3_5__יך;, char_3_5__דא;, struct_uni_bi__adverb, char_3_5__נהו, char_3_5__לי;, char_3_5__לא;, char_3_5__תה;, struct_uni_bi__numeral_singular_determined, char_3_5__נן;, char_3_5__נא;, struct_uni_bi__preposition_with_pronominal_suffix, char_3_5__לה;, char_3_5__מי;, char_3_5__מא;, struct_uni_bi__interjection, char_3_5__רה;, char_3_5__די;, char_3_5__אי;, char_3_5__אמר', char_3_5__ות;, char_3_5__ים;, char_3_5__יד;, char_3_5__תי', char_3_5__שא;, char_3_5__עי;, struct_uni_bi__preposition, char_3_5__יב;, char_3_5__בא;, char_3_5__ת';, char_3_5__יהו, char_3_5__מר;
+
+Artifacts saved to: models/word_struct_linearsvc
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/structure_xgboost.py
+=== Confusion Matrix (XGBoost) ===
+[[13607  3758]
+ [ 4208 13156]]
+
+=== Classification Report (XGBoost) ===
+              precision    recall  f1-score   support
+
+       bavli       0.76      0.78      0.77     17365
+  yerushalmi       0.78      0.76      0.77     17364
+
+    accuracy                           0.77     34729
+   macro avg       0.77      0.77      0.77     34729
+weighted avg       0.77      0.77      0.77     34729
+
+
+=== Confusion Matrix (LogReg) ===
+[[13584  3781]
+ [ 4216 13148]]
+
+=== Classification Report (LogReg) ===
+              precision    recall  f1-score   support
+
+       bavli       0.76      0.78      0.77     17365
+  yerushalmi       0.78      0.76      0.77     17364
+
+    accuracy                           0.77     34729
+   macro avg       0.77      0.77      0.77     34729
+weighted avg       0.77      0.77      0.77     34729
+
+=== דוגמאות לטאגים מנורמלים ===
+adverb
+preposition_independent
+verb_peal
+verb_ethpeel
+preposition noun_sg._emphatic
+preposition_proclitic numeral_singular_absolute_or_construct
+verb_(h)aphel
+verb_peal
+adjective_plural_absolute
+conjunction conjunction
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/structure_classifier_ranForest.py
+=== Confusion Matrix ===
+[[17948  4024]
+ [10041 12117]]
+
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+       bavli       0.64      0.82      0.72     21972
+  yerushalmi       0.75      0.55      0.63     22158
+
+    accuracy                           0.68     44130
+   macro avg       0.70      0.68      0.68     44130
+weighted avg       0.70      0.68      0.68     44130
+
+=== דוגמאות של מבנים מסווגים ===
+מבנה: conjunction → תווית צפויה: bavli
+מבנה: preposition proclitic | preposition independent → תווית צפויה: bavli
+מבנה: No data → תווית צפויה: bavli
+מבנה: preposition with pronominal suffix → תווית צפויה: bavli
+מבנה: noun → תווית צפויה: bavli
+מבנה: adjective plural absolute → תווית צפויה: bavli
+מבנה: No data → תווית צפויה: bavli
+מבנה: verb (h)aphel → תווית צפויה: bavli
+מבנה: conjunction | verb peal → תווית צפויה: bavli
+מבנה: preposition with pronominal suffix | noun sg. emphatic → תווית צפויה: bavli
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/structure_classifier_mlp.py
+c:\Users\roibr\PycharmProjects\Final_Project_Text_Research\structure_classifier_mlp.py:35: DeprecationWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded 
+from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  return df.groupby("label", group_keys=False).apply(lambda x: x.sample(minc, random_state=seed)).reset_index(drop=True)
+=== Confusion Matrix ===
+[[13563  3802]
+ [ 4185 13179]]
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+       bavli       0.76      0.78      0.77     17365
+  yerushalmi       0.78      0.76      0.77     17364
+
+    accuracy                           0.77     34729
+   macro avg       0.77      0.77      0.77     34729
+weighted avg       0.77      0.77      0.77     34729
+
+
+Model and artifacts saved to models/structure_mlp_sklearn
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/classify_lema_nb.py
+
+=== NB + WORDS (Count) ===
+Confusion Matrix:
+ [[18082  3983]
+ [ 7709 14356]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.70      0.82      0.76     22065
+  yerushalmi       0.78      0.65      0.71     22065
+
+    accuracy                           0.74     44130
+   macro avg       0.74      0.74      0.73     44130
+weighted avg       0.74      0.74      0.73     44130
+
+
+Top 25 n-grams for class 'bavli':
+ליה, לא, אמ, מאי, הוא, נמי, לה, רב, דלא, אי, אלא, כי, קא, הא, להו, ר, הוה, הכי, ל, לי, ולא, בר, משום, א, אבל
+
+Top 25 n-grams for class 'yerushalmi':
+ר, אמ, ליה, לא, מן, בר, על, דר, מה, הוה, ולא, הדא, לה, את, חד, כן, לון, בן, יוחנן, אלא, אין, הוא, יוסי, אמרין, דלא
+
+=== NB + TF-IDF char 3–5 ===
+Confusion Matrix:
+ [[17240  4825]
+ [ 7074 14991]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.71      0.78      0.74     22065
+  yerushalmi       0.76      0.68      0.72     22065
+
+    accuracy                           0.73     44130
+   macro avg       0.73      0.73      0.73     44130
+weighted avg       0.73      0.73      0.73     44130
+
+
+Top 25 n-grams for class 'bavli':
+ליה, אמ', מאי, יה;, הוא, דלא, נמי, ליה;, אלא, הוה, להו, ולא, הכי, ואי, אמר, האי, והא, דרב, הכא, לאו, אבל, דאי, לא;, יכא, בעי
+
+Top 25 n-grams for class 'yerushalmi':
+אמ', ליה, הוה, דר', הדא, אמר, ולא, הוא, אין, לון, תני, אית, לית, אלא, היא, שמע, דלא, לר', רין, אתא, עבד, בעי, תמן, אנא, דין
+
+=== NB + HYBRID (words + chars) ===
+Confusion Matrix:
+ [[17135  4930]
+ [ 4402 17663]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.80      0.78      0.79     22065
+  yerushalmi       0.78      0.80      0.79     22065
+
+    accuracy                           0.79     44130
+   macro avg       0.79      0.79      0.79     44130
+weighted avg       0.79      0.79      0.79     44130
+
+
+Top 25 n-grams for class 'bavli':
+words__ליה, words__לא, chars__ליה, chars__אמ', words__אמ, chars__מאי, words__מאי, chars__יה;, words__הוא, chars__הוא, words__נמי, words__לה, chars__דלא, words__רב, words__דלא, chars__נמי, chars__ליה;, chars__אלא, words__אי, words__אלא, words__כי, words__קא, words__הא, 
+words__להו, words__ר
+
+Top 25 n-grams for class 'yerushalmi':
+words__ר, chars__אמ', words__אמ, chars__ליה, words__ליה, words__לא, words__מן, words__בר, chars__הוה, words__על, chars__דר', chars__הדא, words__דר, words__מה, words__הוה, chars__אמר, chars__ולא, words__ולא, chars__הוא, words__הדא, chars__אין, words__לה, chars__לון, chars__תני, words__את
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> 
+
+
+
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\PycharmProjects\Final_Project_Text_Research\.venv\Scripts\python.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/classify_lema_nb.py
+
+=== NB + WORDS (Count) + SelectKBest ===
+Confusion Matrix:
+ [[20667  1398]
+ [ 7033 15032]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.75      0.94      0.83     22065
+  yerushalmi       0.91      0.68      0.78     22065
+
+    accuracy                           0.81     44130
+   macro avg       0.83      0.81      0.81     44130
+weighted avg       0.83      0.81      0.81     44130
+
+Accuracy: 0.809
+
+=== NB + TF-IDF char 3–6 + SelectKBest (ComplementNB) ===
+Confusion Matrix:
+ [[19387  2678]
+ [ 4949 17116]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.80      0.88      0.84     22065
+  yerushalmi       0.86      0.78      0.82     22065
+
+    accuracy                           0.83     44130
+   macro avg       0.83      0.83      0.83     44130
+weighted avg       0.83      0.83      0.83     44130
+
+Accuracy: 0.8272
+
+=== NB + HYBRID (words+chars) + SelectKBest ===
+Confusion Matrix:
+ [[20715  1350]
+ [ 6688 15377]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.76      0.94      0.84     22065
+  yerushalmi       0.92      0.70      0.79     22065
+
+    accuracy                           0.82     44130
+   macro avg       0.84      0.82      0.82     44130
+weighted avg       0.84      0.82      0.82     44130
+
+Accuracy: 0.8179
+
+=== MODEL D: Linear SVM (SGD) + Calibrated + SelectKBest ===
+Confusion Matrix:
+ [[19315  2750]
+ [ 1786 20279]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.92      0.88      0.89     22065
+  yerushalmi       0.88      0.92      0.90     22065
+
+    accuracy                           0.90     44130
+   macro avg       0.90      0.90      0.90     44130
+weighted avg       0.90      0.90      0.90     44130
+
+Accuracy: 0.8972
+
+=== SOFT ENSEMBLE: (NB-words + NB-chars + SVM) ===
+Confusion Matrix:
+ [[20266  1799]
+ [ 3927 18138]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+       bavli       0.84      0.92      0.88     22065
+  yerushalmi       0.91      0.82      0.86     22065
+
+    accuracy                           0.87     44130
+   macro avg       0.87      0.87      0.87     44130
+weighted avg       0.87      0.87      0.87     44130
+
+Accuracy: 0.8702
+
+Top 25 n-grams for class 'bavli' in NB+WORDS:
+lexicon_1_nan, lexicon_1_nan lexicon_2_nan, merged_lexicon_verb, merged_lexicon_no, lexicon_0_no, merged_lexicon_data, lexicon_0_data, merged_lexicon_no merged_lexicon_data, merged_lexicon_data lexicon_0_no, lema_nan, lema_nan merged_lexicon_no, lexicon_0_data lexicon_1_nan, lexicon_0_no lexicon_0_data, merged_lexicon_preposition, merged_lexicon_, lema_, lexicon_0_c, merged_lexicon_conjunction, merged_lexicon_verb merged_lexicon_peal, merged_lexicon_peal, lexicon_0_verb, merged_lexicon_noun, merged_lexicon_peal lexicon_0_verb, lexicon_0_verb lexicon_0_g, lexicon_0_g
+
+Top 25 n-grams for class 'yerushalmi' in NB+WORDS:
+lexicon_1_nan, lexicon_1_nan lexicon_2_nan, merged_lexicon_, merged_lexicon_verb, lexicon_0_verb, merged_lexicon_no, lexicon_0_no, lexicon_0_data, merged_lexicon_data, merged_lexicon_data lexicon_0_no, lexicon_0_no lexicon_0_data, lema_nan merged_lexicon_no, lema_nan, lexicon_0_data lexicon_1_nan, merged_lexicon_no merged_lexicon_data, lexicon_0_c, merged_lexicon_preposition, merged_lexicon_verb merged_lexicon_peal, merged_lexicon_peal, merged_lexicon_noun, lexicon_0_verb lexicon_0_g, lexicon_0_g, lema_, h, aphel
+
+Top 25 n-grams for class 'bavli' in NB+CHARS:
+קאמ, אמאי , ית; l, ית; , ית;, מיתא;, ותא; , ותא;, ושקל, ורתא;, ורי', מלוה;, ועייל, זרינן, וניפ, ונימ, וממאי, ולי; , ולי;,  האי,  והכי,  והכ, ולא כ, וח' l, וח'
+
+Top 25 n-grams for class 'yerushalmi' in NB+CHARS:
+kdwn , kdwn, kmh m, @lqy$, @lqy, @lq,  כדון,  כדו, a_)l(, dm l, _hll , _twr , _gml , )tr m, )tr , _)p(, _hll, _)p(l, (lgb , (lgb, (lg, dm le, cybxd, a_)p(, $@lqy
+
+Top 25 n-grams for class 'bavli' in NB+HYBRID:
+words:lexicon_1_nan, words:lexicon_1_nan lexicon_2_nan, words:merged_lexicon_verb, words:merged_lexicon_no, words:lexicon_0_no, words:merged_lexicon_data, words:lexicon_0_data, words:merged_lexicon_data lexicon_0_no, words:merged_lexicon_no merged_lexicon_data, words:lexicon_0_data lexicon_1_nan, words:lexicon_0_no lexicon_0_data, words:lema_nan merged_lexicon_no, words:lema_nan, words:merged_lexicon_preposition, words:merged_lexicon_, words:lema_, words:lexicon_0_c, words:merged_lexicon_conjunction, words:merged_lexicon_peal, words:merged_lexicon_verb merged_lexicon_peal, words:lexicon_0_verb, words:merged_lexicon_noun, words:merged_lexicon_peal lexicon_0_verb, words:lexicon_0_g lexicon_1_nan, words:lexicon_0_g
+
+Top 25 n-grams for class 'yerushalmi' in NB+HYBRID:
+words:lexicon_1_nan, words:lexicon_1_nan lexicon_2_nan, words:merged_lexicon_, words:merged_lexicon_verb, words:lexicon_0_verb, words:merged_lexicon_no, words:lexicon_0_no, words:lexicon_0_data, words:merged_lexicon_data, words:lexicon_0_no lexicon_0_data, words:lexicon_0_data lexicon_1_nan, words:lema_nan merged_lexicon_no, words:merged_lexicon_no merged_lexicon_data, words:merged_lexicon_data lexicon_0_no, words:lema_nan, words:lexicon_0_c, words:merged_lexicon_preposition, words:merged_lexicon_verb merged_lexicon_peal, words:merged_lexicon_peal, words:merged_lexicon_noun, words:lexicon_0_g, words:lexicon_0_verb lexicon_0_g, words:lema_, words:h, words:h aphel
+
+
+
+
+
+
+
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\PycharmProjects\Final_Project_Text_Research\.venv\Scripts\python.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/structure_cnn_torch_min.py
+Device: cpu
+[LOAD] bavli: files=37 rows=37 (raw concat=470011)
+[LOAD] yerushalmi: files=39 rows=39 (raw concat=110324)
+[RAW] total rows: 580335
+[SEQ] built=78141 | after_clean=78141 | by='line'
+[BALANCE] per class=11913 | total=23826
+[SPLIT] train=19060 | val=2383 | test=2383 | classes=['bavli', 'yerushalmi']
+
+
+=== Confusion Matrix (Test) ===
+[[1120   72]
+ [  71 1120]]
+
+=== Classification Report (Test) ===
+              precision    recall  f1-score   support
+
+       bavli       0.94      0.94      0.94      1192
+  yerushalmi       0.94      0.94      0.94      1191
+
+    accuracy                           0.94      2383
+   macro avg       0.94      0.94      0.94      2383
+weighted avg       0.94      0.94      0.94      2383
+
+
+[SAVED] models/cnn_structure_torch | Test Acc: 0.9407
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> 
+
+
+
+The CNN classifier achieves high accuracy because it does not rely on the semantic meaning of individual words, but rather on the structural patterns that characterize the two Talmudic corpora. Each input sequence is represented by morphological and syntactic tags (e.g., verb peal, conjunction, noun emphatic), and the convolutional filters capture local n-gram–like patterns of these tags.
+
+In the Babylonian Talmud, the model frequently encounters recurrent structures such as conjunction + verb (e.g., “דתני”, “דאמר”), as well as patterns associated with interrogatives and short question–answer formulations (e.g., מאי, אי, קא). In contrast, the Jerusalem Talmud is dominated by different recurrent structures, including markers like הדא, תני, תמן, and frequent citation patterns involving proper names (proper_name + verb + proper_name).
+
+The CNN layers identify these distinctive structural signatures, while the pooling mechanism emphasizes the most discriminative ones, enabling the model to reliably distinguish between Bavli and Yerushalmi. In other words, what the network “sees” in the language is not lexical meaning, but recurring morpho-syntactic motifs that are statistically different across the two traditions.
+
+
+
+
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\PycharmProjects\Final_Project_Text_Research\.venv\Scripts\python.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/analyze_structure_cnn.py
+Device: cpu
+[LOAD] bavli: files=37 rows=37 (raw concat=470011)
+[LOAD] yerushalmi: files=39 rows=39 (raw concat=110324)
+[SEQ] total sequences for analysis: 78141
+[ANALYZE] using 6400 examples for filter analysis, T=256
+
+=== Top n-grams per (filter_index, kernel_size) ===
+
+[Filter #0 | k=2]
+   1. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=3516 | start=1
+   2. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=3855 | start=3
+   3. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=4033 | start=2
+   4. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=4041 | start=1
+   5. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=3771 | start=3
+   6. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=4296 | start=2
+   7. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=4338 | start=1
+   8. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=4342 | start=1
+   9. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=3885 | start=3
+  10. score=15.9550 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel> | ex_idx=3587 | start=10
+
+[Filter #1 | k=3]
+   1. score=14.1272 | ngram=<preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun> | ex_idx=6102 | start=16
+   2. score=14.1272 | ngram=<preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun> | ex_idx=5136 | start=4
+   3. score=14.1272 | ngram=<preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun> | ex_idx=3986 | start=8
+   4. score=14.1272 | ngram=<preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun> | ex_idx=4874 | start=5
+   5. score=14.1272 | ngram=<preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun> | ex_idx=4195 | start=13
+   6. score=13.6699 | ngram=<verb_pael conjunction preposition_independent> | ex_idx=6024 | start=1
+   7. score=13.6699 | ngram=<verb_pael conjunction preposition_independent> | ex_idx=2599 | start=6
+   8. score=13.6699 | ngram=<verb_pael conjunction preposition_independent> | ex_idx=918 | start=5
+   9. score=13.5459 | ngram=<proper_name_Personal_name preposition_independent_(h)aphel a01_(h)aphel> | ex_idx=3993 | start=5
+  10. score=13.5459 | ngram=<proper_name_Personal_name preposition_independent_(h)aphel a01_(h)aphel> | ex_idx=3593 | start=7
+
+[Filter #2 | k=4]
+   1. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=4787 | start=0
+   2. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=4471 | start=0
+   3. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=5519 | start=0
+   4. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=4932 | start=9
+   5. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=5586 | start=0
+   6. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=6092 | start=9
+   7. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=6223 | start=0
+   8. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=5595 | start=0
+   9. score=20.2252 | ngram=<preposition_independent_(h)aphel conjunction noun verb_peal> | ex_idx=2885 | start=0
+  10. score=20.0160 | ngram=<preposition_independent_(h)aphel conjunction conjunction verb_peal> | ex_idx=2486 | start=1
+
+=== Token Saliency for example #0 (top 20) | predicted_class=0 ===
+                adverb  ->  1.31617
+               No_data  ->  0.71310
+     noun_sg._emphatic  ->  0.66272
+             verb_peal  ->  0.54316
+               No_data  ->  0.47987
+               No_data  ->  0.44565
+             verb_peal  ->  0.42601
+               No_data  ->  0.38725
+           conjunction  ->  0.35263
+  preposition_with_pronominal_suffix  ->  0.34662
+           conjunction  ->  0.32368
+     noun_sg._emphatic  ->  0.31035
+               No_data  ->  0.26049
+               No_data  ->  0.09665
+PS C:\Users\roibr\PycharmProjects\Final_Project_Text_Research> & C:\Users\roibr\PycharmProjects\Final_Project_Text_Research\.venv\Scripts\python.exe c:/Users/roibr/PycharmProjects/Final_Project_Text_Research/analyze_structure_cnn.py
+Device: cpu
+[LOAD] bavli: files=37 rows=37 (raw concat=470011)
+[LOAD] yerushalmi: files=39 rows=39 (raw concat=110324)
+[SEQ] total sequences for analysis: 78141
+[ANALYZE] using 6400 examples for filter analysis, T=256
+
+========================================================================
+דוח ניתוח פילטרים 
+========================================================================
+
+A) Top n-grams לכל פילטר (lex):
+------------------------------------------------------------------------
+[פילטר #0 | חלון k=2] דוגמאות n-gram מייצגות:
+   1. chan=105 score=15.9550 | <proper_name_Personal_name adjective_singular_determined_(h)aphel>
+   2. chan=36  score=13.3349 | <adjective_singular_determined_(h)aphel a01_(h)aphel>
+   3. chan=56  score=12.8640 | <preposition_independent_(h)aphel proper_name_Personal_name>
+   4. chan=117 score=12.5789 | <numeral_singular_absolute_or_construct_(h)aphel adjective_singular_determined_(h)aphel>
+   5. chan=77  score=12.4577 | <preposition_independent_(h)aphel numeral_singular_absolute_or_construct_(h)aphel>
+
+[פילטר #1 | חלון k=3] דוגמאות n-gram מייצגות:
+   1. chan=16  score=14.1272 | <preposition_with_pronominal_suffix_(h)aphel a01_(h)aphel noun>
+   2. chan=0   score=13.6699 | <verb_pael conjunction preposition_independent>
+   3. chan=74  score=13.5459 | <proper_name_Personal_name preposition_independent_(h)aphel a01_(h)aphel>
+   4. chan=29  score=12.4848 | <proper_name_Personal_name verb_peal preposition_independent>
+   5. chan=95  score=12.3394 | <numeral_singular_absolute_or_construct_(h)aphel R preposition_independent_(h)aphel>
+
+[פילטר #2 | חלון k=4] דוגמאות n-gram מייצגות:
+   1. chan=43  score=20.2252 | <preposition_independent_(h)aphel conjunction noun verb_peal>
+   2. chan=108 score=18.8857 | <conjunction verb_peal preposition_with_pronominal_suffix No_data>
+   3. chan=5   score=18.3288 | <preposition_independent numeral_singular_absolute_or_construct_(h)aphel noun_sg._abs._or_construct adjective_singular_absolute_or_construct>
+   4. chan=1   score=16.7175 | <proper_name_Personal_name a01_(h)aphel noun proper_name_Personal_name>
+   5. chan=84  score=16.4728 | <preposition_independent_(h)aphel conjunction R b>
+
+
+B) תרומת פילטרים לפי מחלקה (Probe על כניסת fc1):
+------------------------------------------------------------------------
+
+>> מחלקה: bavli
+   1. [lemma] conv#1 k=3 chan=37  | logit≈ 0.1883
+   2. [lemma] conv#1 k=3 chan=15  | logit≈ 0.1822
+   3. [lemma] conv#1 k=3 chan=35  | logit≈ 0.1667
+   4. [lemma] conv#1 k=3 chan=8   | logit≈ 0.1637
+   5. [lemma] conv#0 k=2 chan=3   | logit≈ 0.1610
+   6. [lemma] conv#0 k=2 chan=44  | logit≈ 0.1600
+   7. [lemma] conv#1 k=3 chan=52  | logit≈ 0.1592
+   8. [lemma] conv#1 k=3 chan=30  | logit≈ 0.1591
+   9. [lemma] conv#0 k=2 chan=11  | logit≈ 0.1404
+  10. [lemma] conv#1 k=3 chan=18  | logit≈ 0.1387
+  11. [lemma] conv#0 k=2 chan=31  | logit≈ 0.1329
+  12. [lemma] conv#0 k=2 chan=10  | logit≈ 0.1265
+  13. [lemma] conv#0 k=2 chan=12  | logit≈ 0.1252
+  14. [lemma] conv#1 k=3 chan=56  | logit≈ 0.1158
+  15. [lemma] conv#1 k=3 chan=16  | logit≈ 0.1145
+
+>> מחלקה: yerushalmi
+   1. [lemma] conv#0 k=2 chan=57  | logit≈ 0.4434
+   2. [lemma] conv#0 k=2 chan=18  | logit≈ 0.4328
+   3. [lemma] conv#0 k=2 chan=33  | logit≈ 0.4309
+   4. [lemma] conv#1 k=3 chan=54  | logit≈ 0.4115
+   5. [lemma] conv#0 k=2 chan=58  | logit≈ 0.4066
+   6. [lemma] conv#0 k=2 chan=19  | logit≈ 0.3905
+   7. [lemma] conv#0 k=2 chan=15  | logit≈ 0.3798
+   8. [lemma] conv#1 k=3 chan=27  | logit≈ 0.3772
+   9. [lex] conv#0 k=2 chan=105 | logit≈ 0.3761 | ngram=<proper_name_Personal_name adjective_singular_determined_(h)aphel>
+  10. [lemma] conv#1 k=3 chan=40  | logit≈ 0.3716
+  11. [lemma] conv#1 k=3 chan=11  | logit≈ 0.3705
+  12. [lemma] conv#1 k=3 chan=17  | logit≈ 0.3657
+  13. [lemma] conv#1 k=3 chan=2   | logit≈ 0.3655
+  14. [lemma] conv#1 k=3 chan=7   | logit≈ 0.3633
+  15. [lemma] conv#0 k=2 chan=62  | logit≈ 0.3553
+
+C) תרומת טוקנים (Saliency) – דוגמה בודדת:
+------------------------------------------------------------------------
+דוגמה #0 | תחזית מחלקה: bavli
+                        adverb  ->  1.31617
+                       No_data  ->  0.71310
+             noun_sg._emphatic  ->  0.66272
+                     verb_peal  ->  0.54316
+                       No_data  ->  0.47987
+                       No_data  ->  0.44565
+                     verb_peal  ->  0.42601
+                       No_data  ->  0.38725
+                   conjunction  ->  0.35263
+  preposition_with_pronominal_suffix  ->  0.34662
+                   conjunction  ->  0.32368
+             noun_sg._emphatic  ->  0.31035
+                       No_data  ->  0.26049
+                       No_data  ->  0.09665
